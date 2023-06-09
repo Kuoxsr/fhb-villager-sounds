@@ -33,4 +33,4 @@ All the sounds are random in their context, so you may need to wait a while to h
 * Catch her livestreams on [Twitch](https://www.twitch.tv/flyinghawkbutt)
 * View her on-demand videos on [YouTube](https://www.youtube.com/@flyinghawkbutt9630)
 * Follow her antics on [Twitter](https://twitter.com/flyinghawkbutt)
-* Interact with her in [The Nest](https://discord.com/invite/THcR8C3BKw)
+* Interact with her and her followers in [The Nest](https://discord.com/invite/THcR8C3BKw)
