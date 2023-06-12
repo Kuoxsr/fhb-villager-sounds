@@ -6,6 +6,10 @@ This came about during a livestream in which Hawkie was bragging that she could 
 
 So I did.
 
+Ever since then, I've had so much fun putting this together, I can't stop.
+
+Please send help.
+
 ## How to install
 1. In Minecraft's main menu, click "Options"
 2. Click "Resource Packs."
@@ -14,41 +18,41 @@ So I did.
 5. Click the arrow on the pack to move it to the right side of the screen (Selected)
 6. Click "Done" and play the game.
 
-## How to hear all the sounds (based on the original edition)
-All the sounds are random in their context, so you may need to wait a while to hear them all.  Also, the game pitch-shifts the sounds, so they kind of sound different, even if they're not.  Be patient.
+## How to hear all the sounds
+All the sounds are random in their context, so you may need to try multiple times to hear them all.  Also, the game pitch-shifts the sounds, so they can sound kind of different, even if they're not.  Be patient.  The "Editions" section below shows how many of each type of sound to expect.
 
-* Find a village, and a villager who has a profession.  Just hanging around them, you should hear them make 3 different sounds that Hawkie  deliberately made to imitate villagers on her live stream.
+* Find a village.  Just hanging around the inhabitants, you should hear them make various idle sounds.
 
-* Right-click on the villager to enter the villager's trading menu.  Do nothing, just wait.  You should hear 3 different "haggle" sounds while you are in this menu.
+* Right-click on a villager with a profession to enter the villager's trading menu.  Do nothing, just wait.  You should hear various "haggle" sounds while you are in this menu.
 
-* Try to trade an item that the villager will *not* accept.  You should hear 3 different "no" sounds.  You can also hear these "no" sounds if you try to trade with a villager who has no profession.
+* Try to trade an item that the villager will *not* accept.  You should hear various "no" sounds.  You can also hear these "no" sounds if you try to trade with a villager who has no profession.
 
-* Trade an item that the villager *does* accept.  You should hear 3 different "yes" sounds.
+* Trade an item that the villager *does* accept.  You should hear various "yes" sounds.  They should also make these sounds when you win a raid.
 
-* Take out a sword and attack the villager.  You should hear 4 different "hit" sounds.  I wouldn't recommend doing this in survival mode, as the village's Iron Golem will want to have words with you.
+* Take out a sword and attack the villager.  You should hear several "hit" sounds.  I wouldn't recommend doing this in survival mode, as the village's Iron Golem will want to have words with you.  FlyingHawkButt herself F&@%ed-around and found out the first time she tried this pack.
 
-* When the villager finally dies, you should hear the spectacular "death" sound.
+* When the villager finally dies, you should hear one or more (depending on edition) spectacular "death" sound(s).
 
 ## Editions
 ### Original
-This was the original, built quickly based on Hawkie's attempt to imitate the villager sounds.  It came together just in time for a special livestream in which FlyingHawkButt joined CarlCrafts' mod team in their attempt to defeat the Ender Dragon.
+This was the original, built quickly based on Hawkie's joking attempt to imitate the villager sounds on her livestream.  She had no idea at the time that I would take her seriously.  It came together just in time for a special livestream event in which FlyingHawkButt joined the rest of [CarlCrafts](https://www.twitch.tv/carlcrafts)' mod team in their attempt to defeat the Ender Dragon.  The sheer hilarity that ensued was quite the experience.
 
 It has a total of 17 sounds: 1 death, 3 haggle, 4 hit, 3 idle, 3 no, and 3 yes
-
-### Loaded
-This edition will have all the original sounds, plus as many more as I can pack in there.  I discovered how to include more than the default number of sounds, so you'd better believe I'm doing that.
-
-This edition has x sounds: x death, x haggle, x hit, x idle, x no and x yes
-
-### non-pc
-Wherever possible in this edition, the sound event will contain profanity.  She is Australian, after-all...
-
-This edition has x sounds: x death, x haggle, x hit, x idle, x no and x yes
 
 ### UwU
 This edition aims to be as adorable as possible, with giggles and laughter and benevolent good vibes, because Hawkie is absolutely adorable in every way.
 
-It has x sounds: x death, x haggle, x hit, x idle, x no and x yes
+I am still working on this one
+
+### Profane
+Whenever possible in this edition, the sound event will be profane.  She is Australian, after-all...
+
+This edition is still in progress
+
+### Loaded
+This edition will have all the original sounds, all the UwU sounds, plus as many more as I can pack in there over time.  I discovered how to include more than the default number of sounds, so you'd better believe I'm stuffing this thing full.  The only thing this pack won't contain is profanity.
+
+This edition currently has 18 sounds: 2 death, 3 haggle, 4 hit, 3 idle, 3 no and 3 yes
 
 ## Follow FlyingHawkButt
 * Catch her livestreams on [Twitch](https://www.twitch.tv/flyinghawkbutt), and tell her Kuo sent you

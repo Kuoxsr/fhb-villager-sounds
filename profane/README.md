@@ -19,7 +19,7 @@ Please send help.
 6. Click "Done" and play the game.
 
 ## How to hear all the sounds
-All the sounds are random in their context, so you may need to try multiple times to hear them all.  Also, the game pitch-shifts the sounds, so they can sound kind of different, even if they're not.  Be patient.
+All the sounds are random in their context, so you may need to try multiple times to hear them all.  Also, the game pitch-shifts the sounds, so they can sound kind of different, even if they're not.  Be patient.  The "Editions" section below shows how many of each type of sound to expect.
 
 * Find a village.  Just hanging around the inhabitants, you should hear them make various idle sounds.
 
@@ -29,30 +29,30 @@ All the sounds are random in their context, so you may need to try multiple time
 
 * Trade an item that the villager *does* accept.  You should hear various "yes" sounds.  They should also make these sounds when you win a raid.
 
-* Take out a sword and attack the villager.  You should hear several "hit" sounds.  I wouldn't recommend doing this in survival mode, as the village's Iron Golem will want to have words with you.  FlyingHawkButt F&@%ed-around and found out the first time she tried this pack.
+* Take out a sword and attack the villager.  You should hear several "hit" sounds.  I wouldn't recommend doing this in survival mode, as the village's Iron Golem will want to have words with you.  FlyingHawkButt herself F&@%ed-around and found out the first time she tried this pack.
 
 * When the villager finally dies, you should hear one or more (depending on edition) spectacular "death" sound(s).
 
 ## Editions
 ### Original
-This was the original, built quickly based on Hawkie's attempt to imitate the villager sounds.  It came together just in time for a special livestream in which FlyingHawkButt joined CarlCrafts' mod team in their attempt to defeat the Ender Dragon.  The sheer hilarity that ensued was quite the experience.
+This was the original, built quickly based on Hawkie's joking attempt to imitate the villager sounds on her livestream.  She had no idea at the time that I would take her seriously.  It came together just in time for a special livestream event in which FlyingHawkButt joined the rest of [CarlCrafts](https://www.twitch.tv/carlcrafts)' mod team in their attempt to defeat the Ender Dragon.  The sheer hilarity that ensued was quite the experience.
 
 It has a total of 17 sounds: 1 death, 3 haggle, 4 hit, 3 idle, 3 no, and 3 yes
-
-### Loaded
-This edition will have all the original sounds, plus as many more as I can pack in there.  I discovered how to include more than the default number of sounds, so you'd better believe I'm doing that.
-
-This edition has x sounds: x death, x haggle, x hit, x idle, x no and x yes
-
-### Profane
-Wherever possible in this edition, the sound event contains profanity.  She is Australian, after-all...
-
-This edition is still in progress
 
 ### UwU
 This edition aims to be as adorable as possible, with giggles and laughter and benevolent good vibes, because Hawkie is absolutely adorable in every way.
 
 I am still working on this one
+
+### Profane
+Whenever possible in this edition, the sound event will be profane.  She is Australian, after-all...
+
+This edition is still in progress
+
+### Loaded
+This edition will have all the original sounds, all the UwU sounds, plus as many more as I can pack in there over time.  I discovered how to include more than the default number of sounds, so you'd better believe I'm stuffing this thing full.  The only thing this pack won't contain is profanity.
+
+This edition currently has 18 sounds: 2 death, 3 haggle, 4 hit, 3 idle, 3 no and 3 yes
 
 ## Follow FlyingHawkButt
 * Catch her livestreams on [Twitch](https://www.twitch.tv/flyinghawkbutt), and tell her Kuo sent you
