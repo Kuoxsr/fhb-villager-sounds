@@ -2,13 +2,12 @@
     "entity.villager.ambient": {
         "replace":true,
         "sounds": [
-        {"name":"mob/villager/idle1", "volume":0.5},
-        {"name":"mob/villager/idle2", "volume":0.5},
-        {"name":"mob/villager/idle3", "volume":0.5}
+        {"name":"mob/villager/idle1", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.ambient"
     },
     "entity.villager.celebrate": {
+        "replace":true,
         "sounds": [
         {"name":"mob/villager/yes1", "volume":0.5},
         {"name":"mob/villager/yes2", "volume":0.5},
@@ -17,15 +16,15 @@
         "subtitle": "subtitles.entity.villager.celebrate"
     },
     "entity.villager.death": {
+        "replace":true,
         "sounds": [
         {"name":"mob/villager/death",   "volume":0.5},
-        {"name":"mob/villager/death1", "volume":0.5},
-        {"name":"mob/villager/death2", "volume":0.5},
-        {"name":"mob/villager/death3", "volume":0.5}
+        {"name":"mob/villager/death1", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.death"
     },
     "entity.villager.hurt": {
+        "replace":true,
         "sounds": [
         {"name":"mob/villager/hit1", "volume":0.5},
         {"name":"mob/villager/hit2", "volume":0.5},
@@ -35,6 +34,7 @@
         "subtitle": "subtitles.entity.villager.hurt"
     },
     "entity.villager.no": {
+        "replace":true,
         "sounds": [
         {"name":"mob/villager/no1", "volume":0.5},
         {"name":"mob/villager/no2", "volume":0.5},
@@ -43,6 +43,7 @@
         "subtitle": "subtitles.entity.villager.no"
     },
     "entity.villager.trade": {
+        "replace":true,
         "sounds": [
         {"name":"mob/villager/haggle1", "volume":0.5},
         {"name":"mob/villager/haggle2", "volume":0.5},
