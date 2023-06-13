@@ -2,53 +2,84 @@
     "entity.villager.ambient": {
         "replace":true,
         "sounds": [
-        {"name":"mob/villager/idle1", "volume":0.5}
+        {"name":"mob/villager/idle01", "volume":0.5},
+        {"name":"mob/villager/idle02", "volume":0.5},
+        {"name":"mob/villager/idle03", "volume":0.5},
+        {"name":"mob/villager/idle04", "volume":0.5},
+        {"name":"mob/villager/idle05", "volume":0.5},
+        {"name":"mob/villager/idle06", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.ambient"
     },
     "entity.villager.celebrate": {
         "replace":true,
         "sounds": [
-        {"name":"mob/villager/yes1", "volume":0.5},
-        {"name":"mob/villager/yes2", "volume":0.5},
-        {"name":"mob/villager/yes3", "volume":0.5}
+        {"name":"mob/villager/yes01", "volume":0.5},
+        {"name":"mob/villager/yes02", "volume":0.5},
+        {"name":"mob/villager/yes03", "volume":0.5},
+        {"name":"mob/villager/yes04", "volume":0.5},
+        {"name":"mob/villager/yes05", "volume":0.5},
+        {"name":"mob/villager/yes06", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.celebrate"
     },
     "entity.villager.death": {
         "replace":true,
         "sounds": [
-        {"name":"mob/villager/death",   "volume":0.5},
-        {"name":"mob/villager/death1", "volume":0.5}
+        {"name":"mob/villager/death01", "volume":0.5},
+        {"name":"mob/villager/death02", "volume":0.5},
+        {"name":"mob/villager/death03", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.death"
     },
     "entity.villager.hurt": {
         "replace":true,
         "sounds": [
-        {"name":"mob/villager/hit1", "volume":0.5},
-        {"name":"mob/villager/hit2", "volume":0.5},
-        {"name":"mob/villager/hit3", "volume":0.5},
-        {"name":"mob/villager/hit4", "volume":0.5}
+        {"name":"mob/villager/hit01", "volume":0.5},
+        {"name":"mob/villager/hit02", "volume":0.5},
+        {"name":"mob/villager/hit03", "volume":0.5},
+        {"name":"mob/villager/hit04", "volume":0.5},
+        {"name":"mob/villager/hit05", "volume":0.5},
+        {"name":"mob/villager/hit06", "volume":0.5},
+        {"name":"mob/villager/hit07", "volume":0.5},
+        {"name":"mob/villager/hit08", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.hurt"
     },
     "entity.villager.no": {
         "replace":true,
         "sounds": [
-        {"name":"mob/villager/no1", "volume":0.5},
-        {"name":"mob/villager/no2", "volume":0.5},
-        {"name":"mob/villager/no3", "volume":0.5}
+        {"name":"mob/villager/no01", "volume":0.5},
+        {"name":"mob/villager/no02", "volume":0.5},
+        {"name":"mob/villager/no03", "volume":0.5},
+        {"name":"mob/villager/no04", "volume":0.5},
+        {"name":"mob/villager/no05", "volume":0.5},
+        {"name":"mob/villager/no06", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.no"
     },
     "entity.villager.trade": {
         "replace":true,
         "sounds": [
-        {"name":"mob/villager/haggle1", "volume":0.5},
-        {"name":"mob/villager/haggle2", "volume":0.5},
-        {"name":"mob/villager/haggle3", "volume":0.5}
+        {"name":"mob/villager/haggle01", "volume":0.5},
+        {"name":"mob/villager/haggle02", "volume":0.5},
+        {"name":"mob/villager/haggle03", "volume":0.5},
+        {"name":"mob/villager/haggle04", "volume":0.5},
+        {"name":"mob/villager/haggle05", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.trade"
-    }
+    },
+  "entity.villager.yes": {
+        "replace":true,
+        "sounds": [
+        {"name":"mob/villager/yes01", "volume":0.5},
+        {"name":"mob/villager/yes02", "volume":0.5},
+        {"name":"mob/villager/yes03", "volume":0.5},
+        {"name":"mob/villager/yes04", "volume":0.5},
+        {"name":"mob/villager/yes05", "volume":0.5},
+        {"name":"mob/villager/yes06", "volume":0.5},
+        {"name":"mob/villager/yes07", "volume":0.5}
+    ],
+    "subtitle": "subtitles.entity.villager.yes"
+  }
 }
