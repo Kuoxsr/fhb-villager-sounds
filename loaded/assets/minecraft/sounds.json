@@ -2,83 +2,83 @@
     "entity.villager.ambient": {
         "replace":true,
         "sounds": [
-        {"name":"mob/villager/idle01", "volume":0.5},
-        {"name":"mob/villager/idle02", "volume":0.5},
-        {"name":"mob/villager/idle03", "volume":0.5},
-        {"name":"mob/villager/idle04", "volume":0.5},
-        {"name":"mob/villager/idle05", "volume":0.5},
-        {"name":"mob/villager/idle06", "volume":0.5}
+        {"name":"mob/villager/original/idle01", "volume":0.5},
+        {"name":"mob/villager/original/idle02", "volume":0.5},
+        {"name":"mob/villager/original/idle03", "volume":0.5},
+        {"name":"mob/villager/misc/idle04", "volume":0.5},
+        {"name":"mob/villager/misc/idle05", "volume":0.5},
+        {"name":"mob/villager/misc/idle06", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.ambient"
     },
     "entity.villager.celebrate": {
         "replace":true,
         "sounds": [
-        {"name":"mob/villager/yes01", "volume":0.5},
-        {"name":"mob/villager/yes02", "volume":0.5},
-        {"name":"mob/villager/yes03", "volume":0.5},
-        {"name":"mob/villager/yes04", "volume":0.5},
-        {"name":"mob/villager/yes05", "volume":0.5},
-        {"name":"mob/villager/yes06", "volume":0.5}
+        {"name":"mob/villager/original/yes01", "volume":0.5},
+        {"name":"mob/villager/original/yes02", "volume":0.5},
+        {"name":"mob/villager/original/yes03", "volume":0.5},
+        {"name":"mob/villager/misc/yes04", "volume":0.5},
+        {"name":"mob/villager/misc/yes05", "volume":0.5},
+        {"name":"mob/villager/misc/yes06", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.celebrate"
     },
     "entity.villager.death": {
         "replace":true,
         "sounds": [
-        {"name":"mob/villager/death01", "volume":0.5},
-        {"name":"mob/villager/death02", "volume":0.5},
-        {"name":"mob/villager/death03", "volume":0.5}
+        {"name":"mob/villager/original/death01", "volume":0.5},
+        {"name":"mob/villager/misc/death02", "volume":0.5},
+        {"name":"mob/villager/misc/death03", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.death"
     },
     "entity.villager.hurt": {
         "replace":true,
         "sounds": [
-        {"name":"mob/villager/hit01", "volume":0.5},
-        {"name":"mob/villager/hit02", "volume":0.5},
-        {"name":"mob/villager/hit03", "volume":0.5},
-        {"name":"mob/villager/hit04", "volume":0.5},
-        {"name":"mob/villager/hit05", "volume":0.5},
-        {"name":"mob/villager/hit06", "volume":0.5},
-        {"name":"mob/villager/hit07", "volume":0.5},
-        {"name":"mob/villager/hit08", "volume":0.5}
+        {"name":"mob/villager/original/hit01", "volume":0.5},
+        {"name":"mob/villager/original/hit02", "volume":0.5},
+        {"name":"mob/villager/original/hit03", "volume":0.5},
+        {"name":"mob/villager/original/hit04", "volume":0.5},
+        {"name":"mob/villager/misc/hit05", "volume":0.5},
+        {"name":"mob/villager/misc/hit06", "volume":0.5},
+        {"name":"mob/villager/misc/hit07", "volume":0.5},
+        {"name":"mob/villager/misc/hit08", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.hurt"
     },
     "entity.villager.no": {
         "replace":true,
         "sounds": [
-        {"name":"mob/villager/no01", "volume":0.5},
-        {"name":"mob/villager/no02", "volume":0.5},
-        {"name":"mob/villager/no03", "volume":0.5},
-        {"name":"mob/villager/no04", "volume":0.5},
-        {"name":"mob/villager/no05", "volume":0.5},
-        {"name":"mob/villager/no06", "volume":0.5}
+        {"name":"mob/villager/original/no01", "volume":0.5},
+        {"name":"mob/villager/original/no02", "volume":0.5},
+        {"name":"mob/villager/original/no03", "volume":0.5},
+        {"name":"mob/villager/misc/no04", "volume":0.5},
+        {"name":"mob/villager/misc/no05", "volume":0.5},
+        {"name":"mob/villager/misc/no06", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.no"
     },
     "entity.villager.trade": {
         "replace":true,
         "sounds": [
-        {"name":"mob/villager/haggle01", "volume":0.5},
-        {"name":"mob/villager/haggle02", "volume":0.5},
-        {"name":"mob/villager/haggle03", "volume":0.5},
-        {"name":"mob/villager/haggle04", "volume":0.5},
-        {"name":"mob/villager/haggle05", "volume":0.5}
+        {"name":"mob/villager/original/haggle01", "volume":0.5},
+        {"name":"mob/villager/original/haggle02", "volume":0.5},
+        {"name":"mob/villager/original/haggle03", "volume":0.5},
+        {"name":"mob/villager/misc/haggle04", "volume":0.5},
+        {"name":"mob/villager/misc/haggle05", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.trade"
     },
   "entity.villager.yes": {
         "replace":true,
         "sounds": [
-        {"name":"mob/villager/yes01", "volume":0.5},
-        {"name":"mob/villager/yes02", "volume":0.5},
-        {"name":"mob/villager/yes03", "volume":0.5},
-        {"name":"mob/villager/yes04", "volume":0.5},
-        {"name":"mob/villager/yes05", "volume":0.5},
-        {"name":"mob/villager/yes06", "volume":0.5},
-        {"name":"mob/villager/yes07", "volume":0.5}
+        {"name":"mob/villager/original/yes01", "volume":0.5},
+        {"name":"mob/villager/original/yes02", "volume":0.5},
+        {"name":"mob/villager/original/yes03", "volume":0.5},
+        {"name":"mob/villager/misc/yes04", "volume":0.5},
+        {"name":"mob/villager/misc/yes05", "volume":0.5},
+        {"name":"mob/villager/misc/yes06", "volume":0.5},
+        {"name":"mob/villager/misc/yes07", "volume":0.5}
     ],
     "subtitle": "subtitles.entity.villager.yes"
   }
