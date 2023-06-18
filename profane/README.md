@@ -33,11 +33,15 @@ All the sounds are random in their context, so you may need to try multiple time
 
 * When the villager finally dies, you should hear one or more (depending on edition) spectacular "death" sound(s).
 
+* To hear the "celebration" sounds, trigger and defeat a raid.  When the villagers are outside shooting off fireworks, they will make special sounds.
+
 ## Editions
 ### Original
-This was the original, built quickly based on Hawkie's joking attempt to imitate the villager sounds on her livestream.  She had no idea at the time that I would take her seriously.  It came together just in time for a special livestream event in which FlyingHawkButt joined the rest of [CarlCrafts](https://www.twitch.tv/carlcrafts)' mod team in their attempt to defeat the Ender Dragon.  The sheer hilarity that ensued was quite the experience.
+This was the original, built quickly based on Hawkie's joking attempt to imitate the villager sounds on her livestream.  She had no idea at the time that someone would take her seriously.  It came together just in time for a special livestream event in which FlyingHawkButt joined the rest of [CarlCrafts](https://www.twitch.tv/carlcrafts)' mod team in their attempt to defeat the Ender Dragon.  The sheer hilarity that ensued was quite the experience.
 
 It has a total of 17 sounds: 1 death, 3 haggle, 4 hit, 3 idle, 3 no, and 3 yes
+
+I was not aware that "celebration" sounds were different from "yes" sounds at this time, because the vanilla game has no special celebration sounds.  They simply reuse the "yes" sounds for this.  All my other editions separate these, so "yes" and "celebrate" are two different concepts.  This one will stay the way it is just for nostalgia.
 
 ### UwU
 This edition aims to be as adorable as possible, with giggles and laughter and benevolent good vibes, because Hawkie is absolutely adorable in every way.

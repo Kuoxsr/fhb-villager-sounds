@@ -1,0 +1,151 @@
+{
+    "entity.villager.ambient": {
+        "replace":true,
+        "sounds": [
+        ],
+        "subtitle": "subtitles.entity.villager.ambient"
+    },
+    "entity.villager.celebrate": {
+        "replace":true,
+        "sounds": [
+            {"name":"mob/villager/elden-ring/celebrate/dude-im-op-as-shit-now", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/enjoy-my-throbing-stimulus-package", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/give-your-bros-a-brojob", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/grab-his-dick-and-twist-it01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/grab-his-dick-and-twist-it02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/how-are-your-balls01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/how-are-your-balls02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/i-am-in-your-butthole", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/i-get-in-there-i-swing-my-dick-around", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/i-just-want-you-to-know-i-will-beat-ass-for-you", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/im-fuckin-her", "volume":0.5}
+        ],
+        "subtitle": "subtitles.entity.villager.celebrate"
+    },
+    "entity.villager.death": {
+        "replace":true,
+        "sounds": [
+            {"name":"mob/villager/misc/death/death01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/ahh-you-bitch-ass-mothafucka-i-hate-you", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/bitch-are-you-serious", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/fuck-dude-that-is-so-annoying", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/fuck-it", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/fuck-off", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/fuck-off-kunt", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/fuck-ok-i-misdodged-that", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/i-fuckin-dodged", "volume":0.5}
+        ],
+        "subtitle": "subtitles.entity.villager.death"
+    },
+    "entity.villager.hurt": {
+        "replace":true,
+        "sounds": [
+            {"name":"mob/villager/misc/hurt/hit01", "volume":0.5},
+            {"name":"mob/villager/misc/hurt/hit02", "volume":0.5},
+            {"name":"mob/villager/misc/hurt/hit03", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/fuck01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/fuck02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/fuck04", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/fuck05", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/fuck06", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/im-gonna-fuckin-die", "volume":0.5}
+        ],
+        "subtitle": "subtitles.entity.villager.hurt"
+    },
+    "entity.villager.no": {
+        "replace":true,
+        "sounds": [
+            {"name":"mob/villager/elden-ring/no/eat-my-dick-dude", "volume":0.5},
+            {"name":"mob/villager/elden-ring/no/ill-fucking-fight", "volume":0.5},
+            {"name":"mob/villager/elden-ring/no/im-gonna-delete-you-what-the-fuck", "volume":0.5}
+        ],
+        "subtitle": "subtitles.entity.villager.no"
+    },
+    "entity.villager.trade": {
+        "replace":true,
+        "sounds": [,
+            {"name":"mob/villager/elden-ring/trade/all-right-youve-got-titties-or-whatever-thats-great", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/ara-ara", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/are-you-gay01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/are-you-gay02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/congratulations-on-your-gay", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/do-you-think-we-would-be-closer-to-world-peace", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/dude-i-dont-know-what-the-fuck-i-ate", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/everybody-who-is-vip-is-gay", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/how-are-your-balls03", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/i-am-flyinghawkbutt", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/i-can-go-gay-for-the-butt-plug", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/i-have-a-kunt-hat-on", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/i-just-talk-about-every-fuckin-thing-dude", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/ill-have-two-number-nines-etc", "volume":0.5}
+        ],
+        "subtitle": "subtitles.entity.villager.trade"
+    },
+    "entity.villager.yes": {
+        "replace":true,
+        "sounds": [
+            {"name":"mob/villager/elden-ring/yes/fuck-yeah01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/fuck-yeah02", "volume":0.5}
+        ],
+        "subtitle": "subtitles.entity.villager.yes"
+    },
+    "entity.witch.ambient": {
+        "replace":true,
+        "sounds": [
+            {"name":"entity/witch/elden-ring/ambient/cackle01", "volume":0.7},
+            {"name":"entity/witch/elden-ring/ambient/cackle02", "volume":0.7},
+            {"name":"entity/witch/elden-ring/ambient/cackle03", "volume":0.7},
+            {"name":"entity/witch/elden-ring/ambient/cackle04", "volume":0.7},
+            {"name":"entity/witch/elden-ring/ambient/cackle05", "volume":0.7},
+            {"name":"entity/witch/elden-ring/ambient/cackle06", "volume":0.7},
+            {"name":"entity/witch/elden-ring/ambient/cackle07", "volume":0.7},
+            {"name":"entity/witch/elden-ring/ambient/cackle08", "volume":0.7},
+            {"name":"entity/witch/elden-ring/ambient/cackle09", "volume":0.7},
+            {"name":"entity/witch/elden-ring/ambient/cackle12", "volume":0.7},
+            {"name":"entity/witch/elden-ring/ambient/cackle13", "volume":0.7},
+            {"name":"entity/witch/elden-ring/ambient/cackle14", "volume":0.7},
+            {"name":"entity/witch/elden-ring/ambient/giggle03", "volume":0.7}
+        ],
+        "subtitle": "subtitles.entity.witch.ambient"
+    },
+    "entity.witch.celebrate": {
+        "replace":true,
+        "sounds": [
+            {"name":"entity/witch/elden-ring/celebrate/cackle10", "volume":0.7},
+            {"name":"entity/witch/elden-ring/celebrate/cackle11", "volume":0.7}
+        ],
+        "subtitle": "subtitles.entity.witch.celebrate"
+    },
+    "entity.witch.death": {
+        "replace":true,
+        "sounds": [
+            {"name":"entity/witch/elden-ring/death/im-burning-through-my-potions-holy-shit", "volume":0.7}
+        ],
+        "subtitle": "subtitles.entity.witch.death"
+    },
+    "entity.witch.drink": {
+        "sounds": [
+            "entity/witch/drink1",
+            "entity/witch/drink2",
+            "entity/witch/drink3",
+            "entity/witch/drink4"
+        ],
+        "subtitle": "subtitles.entity.witch.drink"
+    },
+    "entity.witch.hurt": {
+        "sounds": [
+            "entity/witch/hurt1",
+            "entity/witch/hurt2",
+            "entity/witch/hurt3"
+        ],
+        "subtitle": "subtitles.entity.witch.hurt"
+    },
+    "entity.witch.throw": {
+        "sounds": [
+            "entity/witch/throw1",
+            "entity/witch/throw2",
+            "entity/witch/throw3"
+        ],
+        "subtitle": "subtitles.entity.witch.throw"
+    }
+}

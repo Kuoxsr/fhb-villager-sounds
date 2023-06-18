@@ -1,0 +1,47 @@
+{
+    "entity.villager.ambient": {
+        "replace":true,
+        "sounds": [
+        ],
+        "subtitle": "subtitles.entity.villager.ambient"
+    },
+    "entity.villager.celebrate": {
+        "replace":true,
+        "sounds": [
+        ],
+        "subtitle": "subtitles.entity.villager.celebrate"
+    },
+    "entity.villager.death": {
+        "replace":true,
+        "sounds": [
+            {"name":"mob/villager/elden-ring/death/he-looked-at-me-and-blinked-and-i-fell-apart", "volume":0.5}
+        ],
+        "subtitle": "subtitles.entity.villager.death"
+    },
+    "entity.villager.hurt": {
+        "replace":true,
+        "sounds": [
+        {"name":"mob/villager/elden-ring/hurt/ai01", "volume":0.5}
+        ],
+        "subtitle": "subtitles.entity.villager.hurt"
+    },
+    "entity.villager.no": {
+        "replace":true,
+        "sounds": [
+        ],
+        "subtitle": "subtitles.entity.villager.no"
+    },
+    "entity.villager.trade": {
+        "replace":true,
+        "sounds": [
+            {"name":"mob/villager/elden-ring/trade/could-i-have-it-anyway", "volume":0.5}
+        ],
+        "subtitle": "subtitles.entity.villager.trade"
+    },
+  "entity.villager.yes": {
+        "replace":true,
+        "sounds": [
+    ],
+    "subtitle": "subtitles.entity.villager.yes"
+  }
+}
