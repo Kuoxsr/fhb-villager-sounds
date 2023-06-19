@@ -53,7 +53,10 @@
             {"name":"mob/villager/elden-ring/celebrate/i-think-i-killed-a-guy-here", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/i-think-were-good", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/i-want-my-babybacks-babybacks-babybacks", "volume":0.5},
-            {"name":"mob/villager/elden-ring/celebrate/i-will-buy-you-a-beer", "volume":0.5}
+            {"name":"mob/villager/elden-ring/celebrate/i-will-buy-you-a-beer", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/lets-go01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/lets-go02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/lets-go03", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.celebrate"
     },
@@ -164,7 +167,8 @@
             {"name":"mob/villager/elden-ring/no/im-not-that-short", "volume":0.5},
             {"name":"mob/villager/elden-ring/no/im-sorry", "volume":0.5},
             {"name":"mob/villager/elden-ring/no/its-a-bad-time", "volume":0.5},
-            {"name":"mob/villager/elden-ring/no/its-far-too-much-honestly", "volume":0.5}
+            {"name":"mob/villager/elden-ring/no/its-far-too-much-honestly", "volume":0.5},
+            {"name":"mob/villager/elden-ring/no/less-satisfying-than-i-thought", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.no"
     },
@@ -217,7 +221,10 @@
             {"name":"mob/villager/elden-ring/trade/i-need-that-you-know", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/is-it-this", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/is-that-going-to-work", "volume":0.5},
-            {"name":"mob/villager/elden-ring/trade/ive-only-got-four-left", "volume":0.5}
+            {"name":"mob/villager/elden-ring/trade/ive-only-got-four-left", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/lets-figure-it-out", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/lets-make-some-numbers-that-make-me-smile", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/look-me-in-my-eyes", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.trade"
     },
@@ -245,7 +252,8 @@
             {"name":"mob/villager/elden-ring/yes/i-can-take-that-thats-ok", "volume":0.5},
             {"name":"mob/villager/elden-ring/yes/i-guess", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/i-need-that-you-know", "volume":0.5},
-            {"name":"mob/villager/elden-ring/trade/i-would-kinda-love-that", "volume":0.5}
+            {"name":"mob/villager/elden-ring/trade/i-would-kinda-love-that", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/me", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.yes"
     },
@@ -272,7 +280,8 @@
         "replace":true,
         "sounds": [
             {"name":"entity/witch/elden-ring/ambient/cackle10", "volume":0.7},
-            {"name":"entity/witch/elden-ring/ambient/cackle11", "volume":0.7}
+            {"name":"entity/witch/elden-ring/ambient/cackle11", "volume":0.7},
+            {"name":"entity/witch/elden-ring/ambient/long-laugh", "volume":0.7}
         ],
         "subtitle": "subtitles.entity.witch.celebrate"
     },
