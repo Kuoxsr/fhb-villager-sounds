@@ -60,7 +60,7 @@ This edition aims to be as adorable as possible, with giggles and laughter and b
 Whenever possible in this edition, the sound event will be profane.  She is Australian, after-all...
 
 ### Loaded (in progress)
-This edition will have all the original sounds, all the UwU sounds, plus as many more as I can pack in there over time.  I discovered how to include more than the default number of sounds, so you'd better believe I'm stuffing this thing full.  The only thing this pack won't contain is profanity.
+This edition will have all the original sounds, plus as many more as I can pack in there over time.  I discovered how to include more than the default number of sounds, so you'd better believe I'm stuffing this thing full.  The only thing this pack won't contain is profanity.
 
 #### This edition currently has 212 sounds
 * Villagers: 23 ambient, 18 celebrate,  14 death, 59 hurt, 20 no, 39 trade, 21 yes
