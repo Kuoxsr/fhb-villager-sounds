@@ -37,7 +37,8 @@
             {"name":"mob/villager/elden-ring/death/fuck-off-kunt", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/fuck-ok-i-misdodged-that", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/i-fuckin-dodged", "volume":0.5},
-            {"name":"mob/villager/elden-ring/death/likely-that-im-still-gonna-feel-like-shit-for-a-while", "volume":0.5}
+            {"name":"mob/villager/elden-ring/death/likely-that-im-still-gonna-feel-like-shit-for-a-while", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/oh-fuck-my-guy", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.death"
     },
@@ -52,7 +53,8 @@
             {"name":"mob/villager/elden-ring/hurt/fuck04", "volume":0.5},
             {"name":"mob/villager/elden-ring/hurt/fuck05", "volume":0.5},
             {"name":"mob/villager/elden-ring/hurt/fuck06", "volume":0.5},
-            {"name":"mob/villager/elden-ring/hurt/im-gonna-fuckin-die", "volume":0.5}
+            {"name":"mob/villager/elden-ring/hurt/im-gonna-fuckin-die", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/oh-fuck01", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.hurt"
     },
@@ -61,13 +63,14 @@
         "sounds": [
             {"name":"mob/villager/elden-ring/no/eat-my-dick-dude", "volume":0.5},
             {"name":"mob/villager/elden-ring/no/ill-fucking-fight", "volume":0.5},
-            {"name":"mob/villager/elden-ring/no/im-gonna-delete-you-what-the-fuck", "volume":0.5}
+            {"name":"mob/villager/elden-ring/no/im-gonna-delete-you-what-the-fuck", "volume":0.5},
+            {"name":"mob/villager/elden-ring/no/oh-fuck-off", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.no"
     },
     "entity.villager.trade": {
         "replace":true,
-        "sounds": [,
+        "sounds": [
             {"name":"mob/villager/elden-ring/trade/all-right-youve-got-titties-or-whatever-thats-great", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/ara-ara", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/are-you-gay01", "volume":0.5},

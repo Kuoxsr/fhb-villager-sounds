@@ -24,7 +24,12 @@
             {"name":"mob/villager/elden-ring/ambient/hi02", "volume":0.5},
             {"name":"mob/villager/elden-ring/ambient/how-are-ya", "volume":0.5},
             {"name":"mob/villager/elden-ring/ambient/how-are-you-doing01", "volume":0.5},
-            {"name":"mob/villager/elden-ring/ambient/how-are-you-doing02", "volume":0.5}
+            {"name":"mob/villager/elden-ring/ambient/how-are-you-doing02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/ambient/mumbling01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/ambient/mumbling02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/ambient/mumbling03", "volume":0.5},
+            {"name":"mob/villager/elden-ring/ambient/mumbling04", "volume":0.5},
+            {"name":"mob/villager/elden-ring/ambient/oh-hello", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.ambient"
     },
@@ -34,8 +39,9 @@
             {"name":"mob/villager/original/yes/yes01", "volume":0.5},
             {"name":"mob/villager/original/yes/yes02", "volume":0.5},
             {"name":"mob/villager/original/yes/yes03", "volume":0.5},
+            {"name":"mob/villager/misc/celebrate/we-did-it-lets-go", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/and-i-hope-your-enemies-feel-a-little-bit-smaller", "volume":0.5},
-            {"name":"mob/villager/elden-ring/celebrate/are-we-done", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/are-we-done", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/dude-i-made-god", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/get-bozoed", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/guys-im-literally-going-to-cry", "volume":0.5},
@@ -56,7 +62,9 @@
             {"name":"mob/villager/elden-ring/celebrate/i-will-buy-you-a-beer", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/lets-go01", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/lets-go02", "volume":0.5},
-            {"name":"mob/villager/elden-ring/celebrate/lets-go03", "volume":0.5}
+            {"name":"mob/villager/elden-ring/celebrate/lets-go03", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/naked-woman-beats-god-exactly-the-energy", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/oh-im-so-happy", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.celebrate"
     },
@@ -70,12 +78,21 @@
             {"name":"mob/villager/elden-ring/death/ahh16", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/can-we-not-count-that-one-i-got-raided", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/does-that-count-as-a-death", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/he-looked-at-me-and-blinked-and-i-fell-apart", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/i-have-nothing-but-a-butter-knife-please", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/i-may-as-well-die", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/i-may-suck-death", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/im-having-a-heart-attack-and-a-half", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/i-tried-everybody", "volume":0.5},
-            {"name":"mob/villager/elden-ring/death/ive-died", "volume":0.5}
+            {"name":"mob/villager/elden-ring/death/ive-died", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/no03", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/no05", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/no06", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/no-dont-make-me-cry", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/oh04", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/oh-i-actually-died", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/oh-im-covered-in-blood", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/oh-my-god03", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.death"
     },
@@ -140,7 +157,28 @@
             {"name":"mob/villager/elden-ring/hurt/gasp09", "volume":0.5},
             {"name":"mob/villager/elden-ring/hurt/hey01", "volume":0.5},
             {"name":"mob/villager/elden-ring/hurt/hey-dont-smack-me-man", "volume":0.5},
-            {"name":"mob/villager/elden-ring/hurt/hey-man", "volume":0.5}
+            {"name":"mob/villager/elden-ring/hurt/hey-man", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/my-health", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/no-please-stop", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/no02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/no04", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/no07", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/no08", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/no10", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/no11", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/no13", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/no16", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/oh01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/oh02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/oh03", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/oh05", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/oh06", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/oh07", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/oh08", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/oh-no01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/oh-god01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/oh-god02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/oh-lord-ok", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.hurt"
     },
@@ -168,7 +206,13 @@
             {"name":"mob/villager/elden-ring/no/im-sorry", "volume":0.5},
             {"name":"mob/villager/elden-ring/no/its-a-bad-time", "volume":0.5},
             {"name":"mob/villager/elden-ring/no/its-far-too-much-honestly", "volume":0.5},
-            {"name":"mob/villager/elden-ring/no/less-satisfying-than-i-thought", "volume":0.5}
+            {"name":"mob/villager/elden-ring/no/less-satisfying-than-i-thought", "volume":0.5},
+            {"name":"mob/villager/elden-ring/no/no01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/no/no10", "volume":0.5},
+            {"name":"mob/villager/elden-ring/no/no12", "volume":0.5},
+            {"name":"mob/villager/elden-ring/no/no14", "volume":0.5},
+            {"name":"mob/villager/elden-ring/no/no15", "volume":0.5},
+            {"name":"mob/villager/elden-ring/no/no-way", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.no"
     },
@@ -219,12 +263,17 @@
             {"name":"mob/villager/elden-ring/trade/im-pretty-sure-i-got-everything", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/im-very-excited", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/i-need-that-you-know", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/i-would-kinda-love-that", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/is-it-this", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/is-that-going-to-work", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/ive-only-got-four-left", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/lets-figure-it-out", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/lets-make-some-numbers-that-make-me-smile", "volume":0.5},
-            {"name":"mob/villager/elden-ring/trade/look-me-in-my-eyes", "volume":0.5}
+            {"name":"mob/villager/elden-ring/trade/look-me-in-my-eyes", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/new-items-can-be-purchased", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/look-at-this01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/look-at-this02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/oh-my-god-i-have-so-many-of-these-things", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.trade"
     },
@@ -252,7 +301,7 @@
             {"name":"mob/villager/elden-ring/yes/i-can-take-that-thats-ok", "volume":0.5},
             {"name":"mob/villager/elden-ring/yes/i-guess", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/i-need-that-you-know", "volume":0.5},
-            {"name":"mob/villager/elden-ring/trade/i-would-kinda-love-that", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/i-would-kinda-love-that", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/me", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.yes"
@@ -279,9 +328,9 @@
     "entity.witch.celebrate": {
         "replace":true,
         "sounds": [
-            {"name":"entity/witch/elden-ring/ambient/cackle10", "volume":0.7},
-            {"name":"entity/witch/elden-ring/ambient/cackle11", "volume":0.7},
-            {"name":"entity/witch/elden-ring/ambient/long-laugh", "volume":0.7}
+            {"name":"entity/witch/elden-ring/celebrate/cackle10", "volume":0.7},
+            {"name":"entity/witch/elden-ring/celebrate/cackle11", "volume":0.7},
+            {"name":"entity/witch/elden-ring/celebrate/long-laugh", "volume":0.7}
         ],
         "subtitle": "subtitles.entity.witch.celebrate"
     },
@@ -318,11 +367,11 @@
         ],
         "subtitle": "subtitles.entity.witch.throw"
     },
-        "music_disc.11": {
-            "replace":true,
-            "sounds": [
-                {"name": "records/will-the-circle-be-unbroken", "weight":100, "stream": true},
-                {"name": "records/still-alive", "weight":1, "stream": true}
-            ]
-        }
+    "music_disc.11": {
+        "replace":true,
+        "sounds": [
+            {"name": "records/will-the-circle-be-unbroken", "weight":100, "stream": true},
+            {"name": "records/still-alive", "weight":1, "stream": true}
+        ]
+    }
 }
