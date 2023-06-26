@@ -38,7 +38,8 @@
             {"name":"mob/villager/elden-ring/death/fuck-ok-i-misdodged-that", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/i-fuckin-dodged", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/likely-that-im-still-gonna-feel-like-shit-for-a-while", "volume":0.5},
-            {"name":"mob/villager/elden-ring/death/oh-fuck-my-guy", "volume":0.5}
+            {"name":"mob/villager/elden-ring/death/oh-fuck-my-guy", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/oh-you-bitch", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.death"
     },
@@ -54,7 +55,8 @@
             {"name":"mob/villager/elden-ring/hurt/fuck05", "volume":0.5},
             {"name":"mob/villager/elden-ring/hurt/fuck06", "volume":0.5},
             {"name":"mob/villager/elden-ring/hurt/im-gonna-fuckin-die", "volume":0.5},
-            {"name":"mob/villager/elden-ring/hurt/oh-fuck01", "volume":0.5}
+            {"name":"mob/villager/elden-ring/hurt/oh-fuck01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/oh-no-i-fucking-died", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.hurt"
     },
@@ -85,7 +87,9 @@
             {"name":"mob/villager/elden-ring/trade/i-have-a-kunt-hat-on", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/i-just-talk-about-every-fuckin-thing-dude", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/ill-have-two-number-nines-etc", "volume":0.5},
-            {"name":"mob/villager/elden-ring/trade/i-would-date-the-fuck-out-of-you", "volume":0.5}
+            {"name":"mob/villager/elden-ring/trade/i-would-date-the-fuck-out-of-you", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/look-me-in-my-fucking-eyes01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/look-me-in-my-fucking-eyes02", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.trade"
     },
