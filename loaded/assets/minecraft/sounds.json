@@ -65,7 +65,13 @@
             {"name":"mob/villager/elden-ring/celebrate/lets-go03", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/naked-woman-beats-god-exactly-the-energy", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/oh-i-feel-so-cool", "volume":0.5},
-            {"name":"mob/villager/elden-ring/celebrate/oh-im-so-happy", "volume":0.5}
+            {"name":"mob/villager/elden-ring/celebrate/oh-im-so-happy", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/oo-oo", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/OO-OO", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/please-clap", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/problem-solved-i-guess-but-well-see", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/shining-balls-sound", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/so-good", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.celebrate"
     },
@@ -102,7 +108,9 @@
             {"name":"mob/villager/elden-ring/death/ok-we-get-it", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/ooh-my-god-i-dont-like-that", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/ooh-ooh-ooh-ok", "volume":0.5},
-            {"name":"mob/villager/elden-ring/death/ooh-that-was-so-mean", "volume":0.5}
+            {"name":"mob/villager/elden-ring/death/ooh-that-was-so-mean", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/please-please", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/please-theres-only-so-much-fish-a-girl-can-handle", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.death"
     },
@@ -197,7 +205,14 @@
             {"name":"mob/villager/elden-ring/hurt/oh-my-god-im-down-to-one-hp", "volume":0.5},
             {"name":"mob/villager/elden-ring/hurt/oh-no06", "volume":0.5},
             {"name":"mob/villager/elden-ring/hurt/ooh-god-ok", "volume":0.5},
-            {"name":"mob/villager/elden-ring/hurt/ooh-no", "volume":0.5}
+            {"name":"mob/villager/elden-ring/hurt/ooh-no", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/ow", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/please01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/please02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/scream01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/scream02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/squeal", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/stay-away-from-me", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.hurt"
     },
@@ -238,7 +253,14 @@
             {"name":"mob/villager/elden-ring/no/oh-no05", "volume":0.5},
             {"name":"mob/villager/elden-ring/no/oh-no07", "volume":0.5},
             {"name":"mob/villager/elden-ring/no/oh-no09", "volume":0.5},
-            {"name":"mob/villager/elden-ring/no/oh-no10", "volume":0.5}
+            {"name":"mob/villager/elden-ring/no/oh-no10", "volume":0.5},
+            {"name":"mob/villager/elden-ring/no/please-do-not01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/no/please-do-not02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/no/please-do-not03", "volume":0.5},
+            {"name":"mob/villager/elden-ring/no/please-dont", "volume":0.5},
+            {"name":"mob/villager/elden-ring/no/please-no", "volume":0.5},
+            {"name":"mob/villager/elden-ring/no/shtop", "volume":0.5},
+            {"name":"mob/villager/elden-ring/no/stop-it", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.no"
     },
@@ -304,7 +326,14 @@
             {"name":"mob/villager/elden-ring/trade/oh-really", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/ok-dude-i-see-you-dude", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/ok-i-can-do-that", "volume":0.5},
-            {"name":"mob/villager/elden-ring/trade/ok-well-i-dont-need-that", "volume":0.5}
+            {"name":"mob/villager/elden-ring/trade/ok-well-i-dont-need-that", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/please-be-nice", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/take-my-stuff", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/thank-you-so-much-for-hangin-out-ok", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/that-feels-like-a-lot02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/that-is-a-prettier-number", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/that-is-so-fair", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/thats-all-i-have-for-you", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.trade"
     },
@@ -350,7 +379,33 @@
             {"name":"mob/villager/elden-ring/yes/ok-there-we-go", "volume":0.5},
             {"name":"mob/villager/elden-ring/yes/ok-we-can-accept-that", "volume":0.5},
             {"name":"mob/villager/elden-ring/yes/ok-were-fine", "volume":0.5},
-            {"name":"mob/villager/elden-ring/yes/ooh-so-good", "volume":0.5}
+            {"name":"mob/villager/elden-ring/yes/ooh-so-good", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/ooohh", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/priceless", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/right01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/right02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/seems-all-right", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/seems-ok-i-guess", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/so-good", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/tasty", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/thank-you02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/thank-you03", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/thank-you04", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/thank-you05", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/thank-you06", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/thank-you-buddy", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/thank-you-for-collecting-an-egg01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/thank-you-for-collecting-an-egg02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/thank-you-for-collecting-an-egg-dude", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/thank-you-for-everything01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/thank-you-for-everything02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/thank-you-for-the-bitties", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/thank-you-for-the-bitties-i-appreciate-that", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/thank-you-for-the-fish-dude", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/thank-you-for-throwing-things-at-my-face01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/thank-you-for-throwing-things-at-my-face02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/thank-you-for-throwing-things-at-my-face03", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/thank-you-so-much02", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.yes"
     },

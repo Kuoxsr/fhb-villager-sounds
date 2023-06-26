@@ -8,20 +8,30 @@
     "entity.villager.celebrate": {
         "replace":true,
         "sounds": [
+            {"name":"mob/villager/elden-ring/celebrate/sign-off", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/singing01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/singing02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/singing03", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/singing04", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/singing05", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/singing-im-the-biggest-bird01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/singing-im-the-biggest-bird02", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.celebrate"
     },
     "entity.villager.death": {
         "replace":true,
         "sounds": [
-            {"name":"mob/villager/elden-ring/death/he-looked-at-me-and-blinked-and-i-fell-apart", "volume":0.5}
+            {"name":"mob/villager/elden-ring/death/he-looked-at-me-and-blinked-and-i-fell-apart", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/thanks-for-throwing-things-at-me-guys", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.death"
     },
     "entity.villager.hurt": {
         "replace":true,
         "sounds": [
-        {"name":"mob/villager/elden-ring/hurt/ai01", "volume":0.5}
+        {"name":"mob/villager/elden-ring/hurt/ai01", "volume":0.5},
+        {"name":"mob/villager/elden-ring/hurt/stop-it-laugh", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.hurt"
     },
@@ -34,7 +44,10 @@
     "entity.villager.trade": {
         "replace":true,
         "sounds": [
-            {"name":"mob/villager/elden-ring/trade/could-i-have-it-anyway", "volume":0.5}
+            {"name":"mob/villager/elden-ring/trade/could-i-have-it-anyway", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/thank-you-for-coming-in", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/thank-you-for-comin-in", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/that-feels-like-a-lot01", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.trade"
     },
