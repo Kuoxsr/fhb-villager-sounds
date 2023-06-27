@@ -72,7 +72,14 @@
             {"name":"mob/villager/elden-ring/celebrate/please-clap", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/problem-solved-i-guess-but-well-see", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/shining-balls-sound", "volume":0.5},
-            {"name":"mob/villager/elden-ring/celebrate/so-good", "volume":0.5}
+            {"name":"mob/villager/elden-ring/celebrate/so-good", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/thats-crazy-thats-insane", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/theres-gonna-be-a-cutscene-right-for-suresies", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/things-are-looking-up-milhouse", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/this-was-a-triumph", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/this-was-a-time", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/to-victory-boys", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/to-victory-boys-yo-ho", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.celebrate"
     },
@@ -111,7 +118,10 @@
             {"name":"mob/villager/elden-ring/death/ooh-ooh-ooh-ok", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/ooh-that-was-so-mean", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/please-please", "volume":0.5},
-            {"name":"mob/villager/elden-ring/death/please-theres-only-so-much-fish-a-girl-can-handle", "volume":0.5}
+            {"name":"mob/villager/elden-ring/death/please-theres-only-so-much-fish-a-girl-can-handle", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/thats-also-a-hate-crime", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/thats-so-mean", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/that-was-terrifying", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.death"
     },
@@ -261,7 +271,8 @@
             {"name":"mob/villager/elden-ring/no/please-dont", "volume":0.5},
             {"name":"mob/villager/elden-ring/no/please-no", "volume":0.5},
             {"name":"mob/villager/elden-ring/no/shtop", "volume":0.5},
-            {"name":"mob/villager/elden-ring/no/stop-it", "volume":0.5}
+            {"name":"mob/villager/elden-ring/no/stop-it", "volume":0.5},
+            {"name":"mob/villager/elden-ring/no/thats-wrong", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.no"
     },
@@ -334,7 +345,11 @@
             {"name":"mob/villager/elden-ring/trade/that-feels-like-a-lot02", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/that-is-a-prettier-number", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/that-is-so-fair", "volume":0.5},
-            {"name":"mob/villager/elden-ring/trade/thats-all-i-have-for-you", "volume":0.5}
+            {"name":"mob/villager/elden-ring/trade/thats-all-i-have-for-you", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/the-places-that-you-access-in-portals", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/theres-a-fish-inside-me-it-go-glug-glug-glug", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/this-is-my-true-form", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/ugly-things-dont-jive-with-my-eyes-man", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.trade"
     },
@@ -406,7 +421,11 @@
             {"name":"mob/villager/elden-ring/yes/thank-you-for-throwing-things-at-my-face01", "volume":0.5},
             {"name":"mob/villager/elden-ring/yes/thank-you-for-throwing-things-at-my-face02", "volume":0.5},
             {"name":"mob/villager/elden-ring/yes/thank-you-for-throwing-things-at-my-face03", "volume":0.5},
-            {"name":"mob/villager/elden-ring/yes/thank-you-so-much02", "volume":0.5}
+            {"name":"mob/villager/elden-ring/yes/thank-you-so-much02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/there-it-is", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/there-we-go", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/there-you-go01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/there-you-go02", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.yes"
     },
@@ -440,34 +459,21 @@
     },
     "entity.witch.death": {
         "sounds": [
-            "entity/witch/death1",
-            "entity/witch/death2",
-            "entity/witch/death3"
         ],
         "subtitle": "subtitles.entity.witch.death"
     },
     "entity.witch.drink": {
         "sounds": [
-            "entity/witch/drink1",
-            "entity/witch/drink2",
-            "entity/witch/drink3",
-            "entity/witch/drink4"
         ],
         "subtitle": "subtitles.entity.witch.drink"
     },
     "entity.witch.hurt": {
         "sounds": [
-            "entity/witch/hurt1",
-            "entity/witch/hurt2",
-            "entity/witch/hurt3"
         ],
         "subtitle": "subtitles.entity.witch.hurt"
     },
     "entity.witch.throw": {
         "sounds": [
-            "entity/witch/throw1",
-            "entity/witch/throw2",
-            "entity/witch/throw3"
         ],
         "subtitle": "subtitles.entity.witch.throw"
     },

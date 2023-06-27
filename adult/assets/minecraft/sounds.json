@@ -2,6 +2,8 @@
     "entity.villager.ambient": {
         "replace":true,
         "sounds": [
+            {"name":"mob/villager/elden-ring/ambient/the-fuck01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/ambient/the-fuck02", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.ambient"
     },
@@ -21,7 +23,9 @@
             {"name":"mob/villager/elden-ring/celebrate/im-fuckin-her", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/im-so-fuckin-cute", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/ive-got-an-arrow-in-my-fucking-shoulder", "volume":0.5},
-            {"name":"mob/villager/elden-ring/celebrate/lets-fucking-go", "volume":0.5}
+            {"name":"mob/villager/elden-ring/celebrate/lets-fucking-go", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/think-of-us-when-you-wash-your-ass", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/to-overall-chaos-we-did-it-we-fuckin", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.celebrate"
     },
@@ -42,7 +46,9 @@
             {"name":"mob/villager/elden-ring/death/oh-no-i-fucking-died", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/oh-you-bitch", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/ooh-what-the-hell", "volume":0.5},
-            {"name":"mob/villager/elden-ring/death/stop-fuckin-suckin-dick", "volume":0.5}
+            {"name":"mob/villager/elden-ring/death/stop-fuckin-suckin-dick", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/the-fuckin-thing-broke-for-some-reason", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/the-way-he-hunts-you-down-kinda-hot", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.death"
     },
@@ -95,7 +101,8 @@
             {"name":"mob/villager/elden-ring/trade/ill-have-two-number-nines-etc", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/i-would-date-the-fuck-out-of-you", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/look-me-in-my-fucking-eyes01", "volume":0.5},
-            {"name":"mob/villager/elden-ring/trade/look-me-in-my-fucking-eyes02", "volume":0.5}
+            {"name":"mob/villager/elden-ring/trade/look-me-in-my-fucking-eyes02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/the-holy-words-do-you-know", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.trade"
     },
