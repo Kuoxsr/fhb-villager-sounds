@@ -150,26 +150,16 @@
     },
     "entity.witch.drink": {
         "sounds": [
-            "entity/witch/drink1",
-            "entity/witch/drink2",
-            "entity/witch/drink3",
-            "entity/witch/drink4"
         ],
         "subtitle": "subtitles.entity.witch.drink"
     },
     "entity.witch.hurt": {
         "sounds": [
-            "entity/witch/hurt1",
-            "entity/witch/hurt2",
-            "entity/witch/hurt3"
         ],
         "subtitle": "subtitles.entity.witch.hurt"
     },
     "entity.witch.throw": {
         "sounds": [
-            "entity/witch/throw1",
-            "entity/witch/throw2",
-            "entity/witch/throw3"
         ],
         "subtitle": "subtitles.entity.witch.throw"
     }
