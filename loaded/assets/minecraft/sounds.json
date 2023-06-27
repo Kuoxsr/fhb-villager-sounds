@@ -5,6 +5,7 @@
             {"name":"mob/villager/original/ambient/idle01", "volume":0.5},
             {"name":"mob/villager/original/ambient/idle02", "volume":0.5},
             {"name":"mob/villager/original/ambient/idle03", "volume":0.5},
+            {"name":"mob/villager/misc/ambient/charlie-brown01", "volume":0.5},
             {"name":"mob/villager/misc/ambient/idle04", "volume":0.5},
             {"name":"mob/villager/misc/ambient/idle05", "volume":0.5},
             {"name":"mob/villager/misc/ambient/idle06", "volume":0.5},
