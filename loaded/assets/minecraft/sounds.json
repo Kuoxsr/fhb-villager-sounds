@@ -30,7 +30,13 @@
             {"name":"mob/villager/elden-ring/ambient/mumbling02", "volume":0.5},
             {"name":"mob/villager/elden-ring/ambient/mumbling03", "volume":0.5},
             {"name":"mob/villager/elden-ring/ambient/mumbling04", "volume":0.5},
-            {"name":"mob/villager/elden-ring/ambient/oh-hello", "volume":0.5}
+            {"name":"mob/villager/elden-ring/ambient/oh-hello", "volume":0.5},
+            {"name":"mob/villager/elden-ring/ambient/umm01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/ambient/umm02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/ambient/umm03", "volume":0.5},
+            {"name":"mob/villager/elden-ring/ambient/umm04", "volume":0.5},
+            {"name":"mob/villager/elden-ring/ambient/umm-oh", "volume":0.5},
+            {"name":"mob/villager/elden-ring/ambient/unintelligible", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.ambient"
     },
@@ -223,7 +229,10 @@
             {"name":"mob/villager/elden-ring/hurt/scream01", "volume":0.5},
             {"name":"mob/villager/elden-ring/hurt/scream02", "volume":0.5},
             {"name":"mob/villager/elden-ring/hurt/squeal", "volume":0.5},
-            {"name":"mob/villager/elden-ring/hurt/stay-away-from-me", "volume":0.5}
+            {"name":"mob/villager/elden-ring/hurt/stay-away-from-me", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/uhh01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/uhh02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/uh-my-god", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.hurt"
     },
@@ -349,7 +358,10 @@
             {"name":"mob/villager/elden-ring/trade/the-places-that-you-access-in-portals", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/theres-a-fish-inside-me-it-go-glug-glug-glug", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/this-is-my-true-form", "volume":0.5},
-            {"name":"mob/villager/elden-ring/trade/ugly-things-dont-jive-with-my-eyes-man", "volume":0.5}
+            {"name":"mob/villager/elden-ring/trade/ugly-things-dont-jive-with-my-eyes-man", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/uh-where-is-it", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/i-will-think-about-it01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/i-will-think-about-it02", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.trade"
     },
