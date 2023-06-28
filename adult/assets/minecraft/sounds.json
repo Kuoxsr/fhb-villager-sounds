@@ -25,7 +25,9 @@
             {"name":"mob/villager/elden-ring/celebrate/ive-got-an-arrow-in-my-fucking-shoulder", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/lets-fucking-go", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/think-of-us-when-you-wash-your-ass", "volume":0.5},
-            {"name":"mob/villager/elden-ring/celebrate/to-overall-chaos-we-did-it-we-fuckin", "volume":0.5}
+            {"name":"mob/villager/elden-ring/celebrate/to-overall-chaos-we-did-it-we-fuckin", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/war-call02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/war-call03", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.celebrate"
     },

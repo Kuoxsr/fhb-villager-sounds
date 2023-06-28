@@ -85,7 +85,11 @@
             {"name":"mob/villager/elden-ring/celebrate/this-was-a-triumph", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/this-was-a-time", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/to-victory-boys", "volume":0.5},
-            {"name":"mob/villager/elden-ring/celebrate/to-victory-boys-yo-ho", "volume":0.5}
+            {"name":"mob/villager/elden-ring/celebrate/to-victory-boys-yo-ho", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/war-call01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/we-finished-the-game", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/weve-seen-that-i-can-still-take-down-things-that-dont-bleed", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/we-will-rule-the-gods-together", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.celebrate"
     },
@@ -127,7 +131,11 @@
             {"name":"mob/villager/elden-ring/death/please-theres-only-so-much-fish-a-girl-can-handle", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/thats-also-a-hate-crime", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/thats-so-mean", "volume":0.5},
-            {"name":"mob/villager/elden-ring/death/that-was-terrifying", "volume":0.5}
+            {"name":"mob/villager/elden-ring/death/that-was-terrifying", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/various-what01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/various-what02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/wait-really", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/wait-thats-a-second-phase-i-thought-i-died", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.death"
     },
@@ -211,6 +219,12 @@
             {"name":"mob/villager/elden-ring/hurt/oh07", "volume":0.5},
             {"name":"mob/villager/elden-ring/hurt/oh08", "volume":0.5},
             {"name":"mob/villager/elden-ring/hurt/oh-no01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/oh-no11", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/oh-no12", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/oh-no13", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/oh-no14", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/oh-no15", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/oh-no-oh-no-oh-no", "volume":0.5},
             {"name":"mob/villager/elden-ring/hurt/oh-god01", "volume":0.5},
             {"name":"mob/villager/elden-ring/hurt/oh-god02", "volume":0.5},
             {"name":"mob/villager/elden-ring/hurt/oh-lord-ok", "volume":0.5},
@@ -221,6 +235,8 @@
             {"name":"mob/villager/elden-ring/hurt/oh-my-god08", "volume":0.5},
             {"name":"mob/villager/elden-ring/hurt/oh-my-god-im-down-to-one-hp", "volume":0.5},
             {"name":"mob/villager/elden-ring/hurt/oh-no06", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/ooh01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/ooh02", "volume":0.5},
             {"name":"mob/villager/elden-ring/hurt/ooh-god-ok", "volume":0.5},
             {"name":"mob/villager/elden-ring/hurt/ooh-no", "volume":0.5},
             {"name":"mob/villager/elden-ring/hurt/ow", "volume":0.5},
@@ -232,7 +248,9 @@
             {"name":"mob/villager/elden-ring/hurt/stay-away-from-me", "volume":0.5},
             {"name":"mob/villager/elden-ring/hurt/uhh01", "volume":0.5},
             {"name":"mob/villager/elden-ring/hurt/uhh02", "volume":0.5},
-            {"name":"mob/villager/elden-ring/hurt/uh-my-god", "volume":0.5}
+            {"name":"mob/villager/elden-ring/hurt/uh-my-god", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/wahh01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/wait", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.hurt"
     },
@@ -361,7 +379,10 @@
             {"name":"mob/villager/elden-ring/trade/ugly-things-dont-jive-with-my-eyes-man", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/uh-where-is-it", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/i-will-think-about-it01", "volume":0.5},
-            {"name":"mob/villager/elden-ring/trade/i-will-think-about-it02", "volume":0.5}
+            {"name":"mob/villager/elden-ring/trade/i-will-think-about-it02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/wait-what-is-this", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/we-feelin-good-now", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/welcome-in", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.trade"
     },
