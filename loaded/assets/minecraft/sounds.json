@@ -88,7 +88,8 @@
             {"name":"mob/villager/elden-ring/celebrate/war-call01", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/we-finished-the-game", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/weve-seen-that-i-can-still-take-down-things-that-dont-bleed", "volume":0.5},
-            {"name":"mob/villager/elden-ring/celebrate/we-will-rule-the-gods-together", "volume":0.5}
+            {"name":"mob/villager/elden-ring/celebrate/we-will-rule-the-gods-together", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/where-is-the-victory-pose", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.celebrate"
     },
@@ -134,7 +135,9 @@
             {"name":"mob/villager/elden-ring/death/various-what01", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/various-what02", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/wait-really", "volume":0.5},
-            {"name":"mob/villager/elden-ring/death/wait-thats-a-second-phase-i-thought-i-died", "volume":0.5}
+            {"name":"mob/villager/elden-ring/death/wait-thats-a-second-phase-i-thought-i-died", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/what03", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/why", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.death"
     },
@@ -249,7 +252,8 @@
             {"name":"mob/villager/elden-ring/hurt/uhh02", "volume":0.5},
             {"name":"mob/villager/elden-ring/hurt/uh-my-god", "volume":0.5},
             {"name":"mob/villager/elden-ring/hurt/wahh01", "volume":0.5},
-            {"name":"mob/villager/elden-ring/hurt/wait", "volume":0.5}
+            {"name":"mob/villager/elden-ring/hurt/wait", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/why-did-you-do-that", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.hurt"
     },
@@ -298,7 +302,8 @@
             {"name":"mob/villager/elden-ring/no/please-no", "volume":0.5},
             {"name":"mob/villager/elden-ring/no/shtop", "volume":0.5},
             {"name":"mob/villager/elden-ring/no/stop-it", "volume":0.5},
-            {"name":"mob/villager/elden-ring/no/thats-wrong", "volume":0.5}
+            {"name":"mob/villager/elden-ring/no/thats-wrong", "volume":0.5},
+            {"name":"mob/villager/elden-ring/no/whatever", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.no"
     },
@@ -381,7 +386,12 @@
             {"name":"mob/villager/elden-ring/trade/i-will-think-about-it02", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/wait-what-is-this", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/we-feelin-good-now", "volume":0.5},
-            {"name":"mob/villager/elden-ring/trade/welcome-in", "volume":0.5}
+            {"name":"mob/villager/elden-ring/trade/welcome-in", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/what01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/what-are-we-doing", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/what-did-you-get-up-to-today", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/whats-it-called-again", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/whats-this", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.trade"
     },
@@ -485,7 +495,8 @@
         "sounds": [
             {"name":"entity/witch/elden-ring/celebrate/cackle10", "volume":0.7},
             {"name":"entity/witch/elden-ring/celebrate/cackle11", "volume":0.7},
-            {"name":"entity/witch/elden-ring/celebrate/long-laugh", "volume":0.7}
+            {"name":"entity/witch/elden-ring/celebrate/long-laugh", "volume":0.7},
+            {"name":"entity/witch/elden-ring/celebrate/witch-ahh", "volume":0.7}
         ],
         "subtitle": "subtitles.entity.witch.celebrate"
     },

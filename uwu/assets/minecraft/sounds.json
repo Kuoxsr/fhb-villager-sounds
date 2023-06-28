@@ -2,6 +2,7 @@
     "entity.villager.ambient": {
         "replace":true,
         "sounds": [
+            {"name":"mob/villager/elden-ring/ambient/whats-up", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.ambient"
     },
@@ -31,7 +32,9 @@
         "replace":true,
         "sounds": [
         {"name":"mob/villager/elden-ring/hurt/ai01", "volume":0.5},
-        {"name":"mob/villager/elden-ring/hurt/stop-it-laugh", "volume":0.5}
+        {"name":"mob/villager/elden-ring/hurt/stop-it-laugh", "volume":0.5},
+        {"name":"mob/villager/elden-ring/hurt/whit01", "volume":0.5},
+        {"name":"mob/villager/elden-ring/hurt/whit02", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.hurt"
     },
