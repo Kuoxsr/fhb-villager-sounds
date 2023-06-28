@@ -43,7 +43,6 @@
     "entity.villager.celebrate": {
         "replace":true,
         "sounds": [
-            {"name":"mob/villager/original/yes/yes01", "volume":0.5},
             {"name":"mob/villager/original/yes/yes02", "volume":0.5},
             {"name":"mob/villager/original/yes/yes03", "volume":0.5},
             {"name":"mob/villager/misc/celebrate/we-did-it-lets-go", "volume":0.5},
