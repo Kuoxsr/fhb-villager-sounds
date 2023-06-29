@@ -137,7 +137,10 @@
             {"name":"mob/villager/elden-ring/death/wait-really", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/wait-thats-a-second-phase-i-thought-i-died", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/what03", "volume":0.5},
-            {"name":"mob/villager/elden-ring/death/why", "volume":0.5}
+            {"name":"mob/villager/elden-ring/death/why", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/woah-that-was-kinda-mean-man", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/woo-woo-woo-woo-woo02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/wowwodawoda", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.death"
     },
@@ -253,7 +256,13 @@
             {"name":"mob/villager/elden-ring/hurt/uh-my-god", "volume":0.5},
             {"name":"mob/villager/elden-ring/hurt/wahh01", "volume":0.5},
             {"name":"mob/villager/elden-ring/hurt/wait", "volume":0.5},
-            {"name":"mob/villager/elden-ring/hurt/why-did-you-do-that", "volume":0.5}
+            {"name":"mob/villager/elden-ring/hurt/why-did-you-do-that", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/woah01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/woo02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/woo06", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/woo07", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/woo08", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/woo-hey-dont-do-that", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.hurt"
     },
