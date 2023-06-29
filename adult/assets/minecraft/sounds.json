@@ -146,6 +146,7 @@
         "sounds": [
             {"name":"entity/witch/elden-ring/celebrate/cackle10", "volume":0.7},
             {"name":"entity/witch/elden-ring/celebrate/cackle11", "volume":0.7},
+            {"name":"entity/witch/elden-ring/celebrate/long-laugh", "volume":0.7},
             {"name":"entity/witch/elden-ring/celebrate/witch-ahh", "volume":0.7}
         ],
         "subtitle": "subtitles.entity.witch.celebrate"
