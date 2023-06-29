@@ -36,7 +36,12 @@
             {"name":"mob/villager/elden-ring/ambient/umm03", "volume":0.5},
             {"name":"mob/villager/elden-ring/ambient/umm04", "volume":0.5},
             {"name":"mob/villager/elden-ring/ambient/umm-oh", "volume":0.5},
-            {"name":"mob/villager/elden-ring/ambient/unintelligible", "volume":0.5}
+            {"name":"mob/villager/elden-ring/ambient/unintelligible", "volume":0.5},
+            {"name":"mob/villager/elden-ring/ambient/you-know01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/ambient/you-know02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/ambient/you-know03", "volume":0.5},
+            {"name":"mob/villager/elden-ring/ambient/you-know04", "volume":0.5},
+            {"name":"mob/villager/elden-ring/ambient/you-know-you-know", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.ambient"
     },
@@ -89,7 +94,10 @@
             {"name":"mob/villager/elden-ring/celebrate/we-finished-the-game", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/weve-seen-that-i-can-still-take-down-things-that-dont-bleed", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/we-will-rule-the-gods-together", "volume":0.5},
-            {"name":"mob/villager/elden-ring/celebrate/where-is-the-victory-pose", "volume":0.5}
+            {"name":"mob/villager/elden-ring/celebrate/where-is-the-victory-pose", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/you-cant-stop-me", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/you-did-it", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/you-were-such-a-fun-fight", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.celebrate"
     },
@@ -400,7 +408,11 @@
             {"name":"mob/villager/elden-ring/trade/what-are-we-doing", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/what-did-you-get-up-to-today", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/whats-it-called-again", "volume":0.5},
-            {"name":"mob/villager/elden-ring/trade/whats-this", "volume":0.5}
+            {"name":"mob/villager/elden-ring/trade/whats-this", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/you-can-give-it-ill-take-it", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/you-dont-even-want-to-hang-out-with-me", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/you-know-what-thats-fine-well-do-that", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/you-think-im-blinged-out-dude", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.trade"
     },
@@ -476,7 +488,11 @@
             {"name":"mob/villager/elden-ring/yes/there-it-is", "volume":0.5},
             {"name":"mob/villager/elden-ring/yes/there-we-go", "volume":0.5},
             {"name":"mob/villager/elden-ring/yes/there-you-go01", "volume":0.5},
-            {"name":"mob/villager/elden-ring/yes/there-you-go02", "volume":0.5}
+            {"name":"mob/villager/elden-ring/yes/there-you-go02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/there-you-go02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/yeah01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/yeah-yeah-ok", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/yeah-yeah-yeah", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.yes"
     },

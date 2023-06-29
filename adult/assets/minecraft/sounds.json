@@ -53,7 +53,8 @@
             {"name":"mob/villager/elden-ring/death/the-fuckin-thing-broke-for-some-reason", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/the-way-he-hunts-you-down-kinda-hot", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/what-the-fuck-happened", "volume":0.5},
-            {"name":"mob/villager/elden-ring/death/what-the-fuck-is-wrong-with-me", "volume":0.5}
+            {"name":"mob/villager/elden-ring/death/what-the-fuck-is-wrong-with-me", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/you-frickin-bastard", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.death"
     },
@@ -70,7 +71,8 @@
             {"name":"mob/villager/elden-ring/hurt/fuck06", "volume":0.5},
             {"name":"mob/villager/elden-ring/hurt/im-gonna-fuckin-die", "volume":0.5},
             {"name":"mob/villager/elden-ring/hurt/oh-fuck01", "volume":0.5},
-            {"name":"mob/villager/elden-ring/hurt/what-the-hell", "volume":0.5}
+            {"name":"mob/villager/elden-ring/hurt/what-the-hell", "volume":0.5},
+            {"name":"mob/villager/elden-ring/hurt/you-want-to-fucking-go", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.hurt"
     },
@@ -110,7 +112,8 @@
             {"name":"mob/villager/elden-ring/trade/look-me-in-my-fucking-eyes01", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/look-me-in-my-fucking-eyes02", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/the-holy-words-do-you-know", "volume":0.5},
-            {"name":"mob/villager/elden-ring/trade/why-are-my-balls-not-shiny-dude", "volume":0.5}
+            {"name":"mob/villager/elden-ring/trade/why-are-my-balls-not-shiny-dude", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/you-have-to-fuckin-do-it-now-i-swear-to-god", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.trade"
     },
