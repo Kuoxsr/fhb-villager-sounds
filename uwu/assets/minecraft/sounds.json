@@ -24,6 +24,7 @@
         "replace":true,
         "sounds": [
             {"name":"mob/villager/elden-ring/death/he-looked-at-me-and-blinked-and-i-fell-apart", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/i-cry-a-lot-it-happens", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/thanks-for-throwing-things-at-me-guys", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.death"
@@ -31,6 +32,7 @@
     "entity.villager.hurt": {
         "replace":true,
         "sounds": [
+        {"name":"mob/villager/elden-ring/hurt/aah", "volume":0.5},
         {"name":"mob/villager/elden-ring/hurt/ai01", "volume":0.5},
         {"name":"mob/villager/elden-ring/hurt/stop-it-laugh", "volume":0.5},
         {"name":"mob/villager/elden-ring/hurt/whit01", "volume":0.5},

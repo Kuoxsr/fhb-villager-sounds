@@ -10,9 +10,11 @@
     "entity.villager.celebrate": {
         "replace":true,
         "sounds": [
+            {"name":"mob/villager/elden-ring/celebrate/caw-caw-bitch", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/dude-im-op-as-shit-now", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/enjoy-my-throbing-stimulus-package", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/give-your-bros-a-brojob", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/god-let-me-in-his-ass", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/grab-his-dick-and-twist-it01", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/grab-his-dick-and-twist-it02", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/how-are-your-balls01", "volume":0.5},
