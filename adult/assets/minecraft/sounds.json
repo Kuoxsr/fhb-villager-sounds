@@ -182,7 +182,7 @@
     "music.credits": {
         "replace":true,
         "sounds": [
-            {"name": "music/game/end/victory", "volume":0.6, "stream": true}
+            {"name": "music/game/end/victory", "volume":0.8, "stream": true}
         ]
     }
 }

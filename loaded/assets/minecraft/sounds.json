@@ -554,5 +554,11 @@
             {"name": "records/will-the-circle-be-unbroken", "weight":100, "stream": true},
             {"name": "records/still-alive", "weight":1, "stream": true}
         ]
+    },
+    "music.credits": {
+        "replace":true,
+        "sounds": [
+            {"name": "music/game/end/victory", "volume":0.8, "stream": true}
+        ]
     }
 }

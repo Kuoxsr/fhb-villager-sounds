@@ -3,13 +3,13 @@
 ## What's this all about?
 This is a Minecraft resource pack containing villager sounds featuring Twitch variety streamer FlyingHawkButt.
 
-This came about during a livestream in which Hawkie was bragging that she could sound just like the villagers in Minecraft, and *demanded* that someone "put [her] in the ... game."
+This came about during a livestream in which Hawkie was bragging that she could sound just like the villagers in Minecraft, and *demanded* that "someone put [her] in the [expletive deleted] Minecraft game."
 
 So I did.
 
-Ever since then, I've had so much fun putting this together, I can't stop.  As evidence of this, the edition I'm working on now contains witch sounds and a music disc, and I'm planning pillagers and maybe even *zombie* villagers.
+Ever since then, I've had so much fun putting this together, I can't stop.  As evidence of this, the edition I'm working on now contains witch sounds, a music disc, an end credits speech, and I'm hoping to add pillagers and maybe even *zombie* villagers.
 
-Please send help.
+Please send help.  I think I may have lost my marbles.
 
 ## Follow FlyingHawkButt
 * Catch her livestreams on [Twitch](https://www.twitch.tv/flyinghawkbutt), and tell her Kuo sent you
@@ -21,12 +21,12 @@ Please send help.
 1. In Minecraft's main menu, click "Options"
 2. Click "Resource Packs."
 3. At the bottom of the screen that appears, click "Open Pack Folder."
-4. Drop this zip file into this folder using your file manager and then return to Minecraft.  You should see the pack in the list at the left side of the screen (Available)
+4. Drop the zip file into this folder using your file manager and then return to Minecraft.  You should see the pack in the list at the left side of the screen (Available)
 5. Click the arrow on the pack to move it to the right side of the screen (Selected)
 6. Click "Done" and play the game.
 
 ## How to hear all the sounds
-All the sounds are random in their context, so you may need to try multiple times to hear them all.  Also, the game pitch-shifts the sounds for variety, so they can sound kind of different, even if they're not.  Be patient.  The "Editions" section below shows how many of each type of sound to expect.
+Most of the sounds are random in their context, so you may need to try multiple times to hear them all.  Also, the game pitch-shifts many of these sounds for variety, so they can sound kind of different, even if they're not.  Be patient.  The "Editions" section below shows how many of each type of sound to expect.
 
 * Find a village.  Just hanging around the inhabitants, you should hear them make various "ambient" sounds.
 
@@ -42,7 +42,13 @@ All the sounds are random in their context, so you may need to try multiple time
 
 * To hear the "celebrate" sounds, trigger and defeat a raid.  When the villagers are outside shooting off fireworks, they will make special sounds.
 
+* To hear witch "ambient" sounds, just hang around a few witches.  Watch out for flying glass bottles with suspicious liquids in them.
+
 * To hear witch "celebrate" sounds, the pillagers need to win the raid.
+
+* To hear "Hawkie covers a song poorly," obtain Disc 11 and play it in a jukebox.  Note: there is currently a bug in Minecraft that cuts off a custom music disc at the length of the vanilla version due to the new way in which jukeboxes interact with hoppers.  Please [vote for it](https://bugs.mojang.com/browse/MC-260346).
+
+* To hear the end credits speech, defeat the ender dragon (or you could go to the options menu and click "Credits & Attribution" and then "Credits," but what fun is that?)  Make sure you have "Music" turned up on the "Music & Sound Options" screen.
 
 ## Editions
 ### Original
@@ -62,17 +68,24 @@ Whenever possible in this edition, the sound event will be profane.  She is Aust
 ### Loaded (in progress)
 This edition will have all the original sounds, plus as many more as I can pack in there over time.  I discovered how to include more than the default number of sounds, so you'd better believe I'm stuffing this thing full.  The only thing this pack won't contain is profanity.
 
-#### This edition currently has 212 sounds
-* Villagers: 23 ambient, 18 celebrate,  14 death, 59 hurt, 20 no, 39 trade, 21 yes
-* Witches: 13 ambient, 2 celebrate
-* Music Discs: Disc "11" has been replaced with Hawkie covering a song badly
+#### This edition currently has 462 sounds
+* Villagers: 40 ambient, 46 celebrate,  46 death, 116 hurt, 44 no, 77 trade, 71 yes
+* Witches: 13 ambient, 5 celebrate
+* Music Discs: Disc "11" has been replaced with "Hawkie covers a song poorly"
+* End Credits Speech - relive the triumphant moment when Hawkie defeated the final boss in Elden Ring
 
 ### Technical notes
 #### Sounds
-All the sounds in each pack (with the exception of the original edition) are fully normalized, and game volume directives are now specified in the sounds.json file, which makes changing the volume for a specific file much easier, and can even be done by you, just by editing the zip file.
+All the sounds in each pack (with the exception of the original edition) are fully normalized, and game volume directives are now specified in the sounds.json file, which makes changing the volume for a specific file much easier, and can even be done by you, just by editing the zip file, if you think a particular sound is too loud.
 
 #### Building from source
 At any time, if you are impatient for a new version and you know what you are doing, you can clone my repository to your hard drive and pack the files yourself. I will not, however, be able to provide any kind of support for versions packed by other people. Make sure you choose a name that doesn't match my format; perhaps use the word "custom" or the date you cloned the repo.
 
 ## Bug reports
-Please report any bugs or issues or feature requests you have on the project's Github [issues](https://github.com/Kuoxsr/fhb-villager-sounds/issues) page.  I have taken requests through Twitch chat and/or Minecraft chat during a livestream, but in the future, I'd like to have a record of change requests and queue them properly, so I may ask you to formally visit that page.
+Please report any bugs or issues or feature requests you have on the project's Github [issues](https://github.com/Kuoxsr/fhb-villager-sounds/issues) page.  I have taken requests through Twitch chat during a livestream and/or Minecraft chat, but in the future, I'd like to have a record of change requests and queue them properly, so I may ask you to formally visit that page.
+
+#### A suggestions format might look like the following
+
+* Take a clip of her Twitch livestream during the moment of audio you think would make a nice event sound for this pack
+* Open an [issue](https://github.com/Kuoxsr/fhb-villager-sounds/issues) on the github page, describing the word or phrase from the clip that you'd like to see in the pack
+* Include a link to the Twitch clip
