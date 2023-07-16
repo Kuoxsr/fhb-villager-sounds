@@ -16,7 +16,8 @@
             {"name":"mob/villager/elden-ring/celebrate/singing04", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/singing05", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/singing-im-the-biggest-bird01", "volume":0.5},
-            {"name":"mob/villager/elden-ring/celebrate/singing-im-the-biggest-bird02", "volume":0.5}
+            {"name":"mob/villager/elden-ring/celebrate/singing-im-the-biggest-bird02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/that-was-so-much-fun", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.celebrate"
     },
@@ -25,7 +26,8 @@
         "sounds": [
             {"name":"mob/villager/elden-ring/death/he-looked-at-me-and-blinked-and-i-fell-apart", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/i-cry-a-lot-it-happens", "volume":0.5},
-            {"name":"mob/villager/elden-ring/death/thanks-for-throwing-things-at-me-guys", "volume":0.5}
+            {"name":"mob/villager/elden-ring/death/thanks-for-throwing-things-at-me-guys", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/you-guys-can-bully-me-when-i-cry", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.death"
     },
@@ -65,6 +67,7 @@
   "entity.villager.yes": {
         "replace":true,
         "sounds": [
+            {"name":"mob/villager/elden-ring/yes/thank-you-thank-you-thank-you", "volume":0.5}
     ],
     "subtitle": "subtitles.entity.villager.yes"
   }
