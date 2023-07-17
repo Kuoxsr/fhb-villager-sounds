@@ -2,7 +2,13 @@
     "entity.villager.ambient": {
         "replace":true,
         "sounds": [
-            {"name":"mob/villager/elden-ring/ambient/whats-up", "volume":0.5}
+            {"name":"mob/villager/elden-ring/ambient/whats-up", "volume":0.5},
+            {"name":"mob/villager/elden-ring/ambient/uwu-dat-da-da01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/ambient/uwu-dat-da-da02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/ambient/uwu-dat-da-da03", "volume":0.5},
+            {"name":"mob/villager/elden-ring/ambient/uwu-dat-da-da04", "volume":0.5},
+            {"name":"mob/villager/elden-ring/ambient/uwu-dat-da-da-da", "volume":0.5},
+            {"name":"mob/villager/elden-ring/ambient/uwu-how-ya-doin", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.ambient"
     },
@@ -17,16 +23,24 @@
             {"name":"mob/villager/elden-ring/celebrate/singing05", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/singing-im-the-biggest-bird01", "volume":0.5},
             {"name":"mob/villager/elden-ring/celebrate/singing-im-the-biggest-bird02", "volume":0.5},
-            {"name":"mob/villager/elden-ring/celebrate/that-was-so-much-fun", "volume":0.5}
+            {"name":"mob/villager/elden-ring/celebrate/that-was-so-much-fun", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/uwu-have-a-good-pita", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/uwu-i-did-it", "volume":0.5},
+            {"name":"mob/villager/elden-ring/celebrate/uwu-i-want-to-fight-more-things", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.celebrate"
     },
     "entity.villager.death": {
         "replace":true,
         "sounds": [
+            {"name":"mob/villager/elden-ring/death/ahh31", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/he-looked-at-me-and-blinked-and-i-fell-apart", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/i-cry-a-lot-it-happens", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/oh-my-god-laugh02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/ok-ive-died-laugh", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/thanks-for-throwing-things-at-me-guys", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/uwu-woooow01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/death/uwu-woooow02", "volume":0.5},
             {"name":"mob/villager/elden-ring/death/you-guys-can-bully-me-when-i-cry", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.death"
@@ -36,7 +50,12 @@
         "sounds": [
         {"name":"mob/villager/elden-ring/hurt/aah", "volume":0.5},
         {"name":"mob/villager/elden-ring/hurt/ai01", "volume":0.5},
+        {"name":"mob/villager/elden-ring/hurt/ooh03", "volume":0.5},
+        {"name":"mob/villager/elden-ring/hurt/please-im-so-little", "volume":0.5},
         {"name":"mob/villager/elden-ring/hurt/stop-it-laugh", "volume":0.5},
+        {"name":"mob/villager/elden-ring/hurt/uwu01", "volume":0.5},
+        {"name":"mob/villager/elden-ring/hurt/uwu02", "volume":0.5},
+        {"name":"mob/villager/elden-ring/hurt/uwu-ooh", "volume":0.5},
         {"name":"mob/villager/elden-ring/hurt/whit01", "volume":0.5},
         {"name":"mob/villager/elden-ring/hurt/whit02", "volume":0.5},
         {"name":"mob/villager/elden-ring/hurt/woo01", "volume":0.5},
@@ -59,16 +78,59 @@
             {"name":"mob/villager/elden-ring/trade/thank-you-for-coming-in", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/thank-you-for-comin-in", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/that-feels-like-a-lot01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/uwu-do-you-like-mountain-goat", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/uwu-i-want-to-hear-it", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/uwu-is-that-good-enough", "volume":0.5},
+            {"name":"mob/villager/elden-ring/trade/uwu-just-look-at-mama", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/you-doin-ok", "volume":0.5},
             {"name":"mob/villager/elden-ring/trade/your-freckles-are-so-cute-dude", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.trade"
     },
-  "entity.villager.yes": {
+    "entity.villager.yes": {
         "replace":true,
         "sounds": [
-            {"name":"mob/villager/elden-ring/yes/thank-you-thank-you-thank-you", "volume":0.5}
+            {"name":"mob/villager/elden-ring/yes/i-love-that-so-much", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/thank-you-thank-you-thank-you", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/thats-kinda-cute-i-like-that", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/uwu-im-happy01", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/uwu-im-happy02", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/uwu-im-happy-you-know-im-happy", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/uwu-im-so-happy", "volume":0.5},
+            {"name":"mob/villager/elden-ring/yes/uwu-it-feels-good", "volume":0.5}
     ],
     "subtitle": "subtitles.entity.villager.yes"
-  }
+    },
+    "entity.witch.ambient": {
+        "replace":true,
+        "sounds": [
+            {"name":"entity/witch/elden-ring/ambient/uwu-hee-hee-hee", "volume":0.7}
+        ],
+        "subtitle": "subtitles.entity.witch.ambient"
+    },
+    "entity.witch.celebrate": {
+        "sounds": [
+        ],
+        "subtitle": "subtitles.entity.witch.celebrate"
+    },
+    "entity.witch.death": {
+        "sounds": [
+        ],
+        "subtitle": "subtitles.entity.witch.death"
+    },
+    "entity.witch.drink": {
+        "sounds": [
+        ],
+        "subtitle": "subtitles.entity.witch.drink"
+    },
+    "entity.witch.hurt": {
+        "sounds": [
+        ],
+        "subtitle": "subtitles.entity.witch.hurt"
+    },
+    "entity.witch.throw": {
+        "sounds": [
+        ],
+        "subtitle": "subtitles.entity.witch.throw"
+    }
 }
