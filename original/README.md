@@ -34,7 +34,7 @@ Most of the sounds are random in their context, so you may need to try multiple 
 
 * Try to trade an item that the villager will *not* accept.  You should hear various "no" sounds.  You can also hear these "no" sounds if you try to trade with a villager who has no profession.
 
-* Trade an item that the villager *does* accept.  You should hear various "yes" sounds.  They should also make these sounds when you win a raid.
+* Trade an item that the villager *does* accept.  You should hear various "yes" sounds.
 
 * Take out a sword and attack the villager.  You should hear several "hurt" sounds.  I wouldn't recommend doing this in survival mode, as the village's Iron Golem will want to have words with you.  FlyingHawkButt herself F&@%ed-around and found out the first time she tried this pack.
 
