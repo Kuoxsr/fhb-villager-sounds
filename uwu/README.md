@@ -59,20 +59,30 @@ This was the original, built quickly based on Hawkie's joking attempt to imitate
 
 I was not aware that "celebrate" sounds were different from "yes" sounds at this time, because the vanilla game has no special celebration sounds.  They simply reuse the "yes" sounds for this.  All my other editions separate these, so "yes" and "celebrate" are two different concepts.  This edition will stay the way it is just for nostalgia.
 
-### UwU (in progress)
+### UwU
 This edition aims to be as adorable as possible, with giggles and laughter and benevolent good vibes, because Hawkie is absolutely adorable in every way.
 
-### Adult (in progress)
+#### This edition currently has 133 sounds
+* Villagers: 30 ambient, 13 celebrate, 11 death, 24 hurt, 4 no, 17 trade, 13 yes
+* Witches: 12 ambient, 8 celebrate
+* I did not include the music disc or the End Credits speech in this edition
+
+### Adult
 Whenever possible in this edition, the sound event will be profane.  She is Australian, after-all...
 
-### Loaded (in progress)
-This edition will have all the original sounds, plus as many more as I can pack in there over time.  I discovered how to include more than the default number of sounds, so you'd better believe I'm stuffing this thing full.  The only thing this pack won't contain is profanity.
+#### This edition currently has 114 sounds
+* Villagers: 8 ambient (most of these are laughs, because there was very little other content), 21 celebrate, 20 death, 12 hurt, 9 no, 20 trade, 2 yes
+* Witch sounds should be identical between loaded and adult, with the exception of a single death sound that contains profanity and is only in this pack
+* End Credits Speech - relive the triumphant moment when Hawkie defeated the final boss in Elden Ring (uncensored)
 
-#### This edition currently has 462 sounds
-* Villagers: 40 ambient, 46 celebrate,  46 death, 116 hurt, 44 no, 77 trade, 71 yes
+### Loaded
+This edition has all the original sounds, plus as many more as I can pack in there over time.  I discovered how to include more than the default number of sounds, so you'd better believe I'm stuffing this thing full.  The only thing this pack won't contain is profanity.
+
+#### This edition currently has 481 sounds
+* Villagers: 46 ambient, 56 celebrate,  46 death, 116 hurt, 45 no, 78 trade, 72 yes
 * Witches: 13 ambient, 5 celebrate
 * Music Discs: Disc "11" has been replaced with "Hawkie covers a song poorly"
-* End Credits Speech - relive the triumphant moment when Hawkie defeated the final boss in Elden Ring
+* End Credits Speech - relive the triumphant moment when Hawkie defeated the final boss in Elden Ring (censored)
 
 ### Technical notes
 #### Sounds
