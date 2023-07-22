@@ -2,6 +2,12 @@
     "entity.villager.ambient": {
         "replace":true,
         "sounds": [
+            {"name":"mob/villager/elden-ring/ambient/laugh09", "volume":0.5},
+            {"name":"mob/villager/elden-ring/ambient/laugh11", "volume":0.5},
+            {"name":"mob/villager/elden-ring/ambient/laugh13", "volume":0.5},
+            {"name":"mob/villager/elden-ring/ambient/laugh15", "volume":0.5},
+            {"name":"mob/villager/elden-ring/ambient/laugh20", "volume":0.5},
+            {"name":"mob/villager/elden-ring/ambient/laugh23", "volume":0.5},
             {"name":"mob/villager/elden-ring/ambient/the-fuck01", "volume":0.5},
             {"name":"mob/villager/elden-ring/ambient/the-fuck02", "volume":0.5}
         ],
