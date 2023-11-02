@@ -31,4 +31,8 @@ echo -e "\nPacking $name edition, version $version into folder $date_stamp: \n"
 
 # In order to prevent the inclusion of every folder from the root
 # to my desired directory, I need to change directory (cd) first:
-(cd $name && zip -r ../releases/${date_stamp}/fhbvs-$name-edition-$version.zip .)
+filename=fhbvs-$name-edition-$version.zip
+(cd $name && zip -r ../releases/${date_stamp}/$filename .)
+
+# Create a cryptographic hash checksum of our file
+(cd releases/${date_stamp} && sha256sum $filename > $filename.sha256)
