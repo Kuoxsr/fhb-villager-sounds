@@ -3,7 +3,7 @@
 ## What's this all about?
 This is a Minecraft resource pack containing villager sounds featuring Twitch variety streamer FlyingHawkButt.
 
-This came about during a livestream in which Hawkie was bragging that she could sound just like the villagers in Minecraft, and *demanded* that "someone put [her] in the [expletive deleted] Minecraft game."
+This came about during a live-stream in which Hawkie was bragging that she could sound just like the villagers in Minecraft, and *demanded* that "someone put \[her\] in the \[expletive deleted\] Minecraft game."
 
 So I did.
 
@@ -12,7 +12,7 @@ Ever since then, I've had so much fun putting this together, I can't stop.  As e
 Please send help.  I think I may have lost my marbles.
 
 ## Follow FlyingHawkButt
-* Catch her livestreams on [Twitch](https://www.twitch.tv/flyinghawkbutt), and tell her Kuo sent you
+* Catch her live-streams on [Twitch](https://www.twitch.tv/flyinghawkbutt), and tell her Kuo sent you
 * View her on-demand videos on [YouTube](https://www.youtube.com/@flyinghawkbutt9630)
 * Follow her antics on [Twitter](https://twitter.com/flyinghawkbutt)
 * Interact with her and her amazing followers in [The Nest](https://discord.com/invite/THcR8C3BKw)
@@ -78,8 +78,8 @@ Whenever possible in this edition, the sound event will be profane.  She is Aust
 ### Loaded
 This edition has all the original sounds, plus as many more as I can pack in there over time.  I discovered how to include more than the default number of sounds, so you'd better believe I'm stuffing this thing full.  The only thing this pack won't contain is profanity.
 
-#### This edition currently has 481 sounds
-* Villagers: 46 ambient, 56 celebrate,  46 death, 116 hurt, 45 no, 78 trade, 72 yes
+#### This edition currently has 499 sounds
+* Villagers: 45 ambient, 60 celebrate,  46 death, 116 hurt, 46 no, 88 trade, 76 yes
 * Witches: 13 ambient, 5 celebrate
 * Music Discs: Disc "11" has been replaced with "Hawkie covers a song poorly"
 * End Credits Speech - relive the triumphant moment when Hawkie defeated the final boss in Elden Ring (censored)
@@ -92,10 +92,10 @@ All the sounds in each pack (with the exception of the original edition) are ful
 At any time, if you are impatient for a new version and you know what you are doing, you can clone my repository to your hard drive and pack the files yourself. I will not, however, be able to provide any kind of support for versions packed by other people. Make sure you choose a name that doesn't match my format; perhaps use the word "custom" or the date you cloned the repo.
 
 ## Bug reports
-Please report any bugs or issues or feature requests you have on the project's Github [issues](https://github.com/Kuoxsr/fhb-villager-sounds/issues) page.  I have taken requests through Twitch chat during a livestream and/or Minecraft chat, but in the future, I'd like to have a record of change requests and queue them properly, so I may ask you to formally visit that page.
+Please report any bugs or issues or feature requests you have on the project's Github [issues](https://github.com/Kuoxsr/fhb-villager-sounds/issues) page.  I have taken requests through Twitch chat during a live-stream and/or Minecraft chat, but in the future, I'd like to have a record of change requests and queue them properly, so I may ask you to formally visit that page.
 
 #### A suggestions format might look like the following
 
-* Take a clip of her Twitch livestream during the moment of audio you think would make a nice event sound for this pack
+* Take a clip of her Twitch live-stream during the moment of audio you think would make a nice event sound for this pack
 * Open an [issue](https://github.com/Kuoxsr/fhb-villager-sounds/issues) on the github page, describing the word or phrase from the clip that you'd like to see in the pack
 * Include a link to the Twitch clip
