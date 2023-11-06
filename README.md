@@ -52,7 +52,7 @@ Most of the sounds are random in their context, so you may need to try multiple 
 
 ## Editions
 ### Original
-This was the original, built quickly based on Hawkie's joking attempt to imitate the villager sounds on her livestream.  She had no idea at the time that someone would take her seriously.  It came together just in time for a special livestream event in which FlyingHawkButt joined the rest of [CarlCrafts](https://www.twitch.tv/carlcrafts)' mod team in their attempt to defeat the Ender Dragon.  The sheer hilarity that ensued was quite the experience.
+This was the original, built quickly based on Hawkie's joking attempt to imitate the villager sounds on her live-stream.  She had no idea at the time that someone would take her seriously.  It came together just in time for a special live-stream event in which FlyingHawkButt joined the rest of [CarlCrafts](https://www.twitch.tv/carlcrafts)' mod team in their attempt to defeat the Ender Dragon.  The sheer hilarity that ensued was quite the experience.
 
 #### This edition has 17 sounds:
 * villagers: 3 ambient, 1 death, 4 hurt, 3 no, 3 trade, 3 yes

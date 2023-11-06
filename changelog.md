@@ -1,3 +1,9 @@
+# Loaded edition v2.1
+Moved "four big guys" sound to the trade menu to make it less conspicuous.
+
+# Version 2.0
+Fixed an issue in my file names that prevented the Loaded edition from working in 1.20.1.  Re-arranged the internal structure of all editions to use a custom namespace instead of shoehorning my .ogg files into the minecraft namespace.  Now, the minecraft namespace has nothing in it but the sounds.json file.
+
 # UwU edition v1.0
 This is the first release of the uwu edition. Please check the README for details
 
