@@ -512,6 +512,7 @@
             {"name": "hawkie:entity/villager/yes/yeah-yeah-yeah", "volume":0.5},
             {"name": "hawkie:entity/villager/yes/yeah01", "volume":0.5},
             {"name": "hawkie:entity/villager/yes/yeah02", "volume":0.5},
+            {"name": "hawkie:entity/villager/yes/yeah03", "volume":0.5},
             {"name": "hawkie:entity/villager/yes/yes01", "volume":0.5},
             {"name": "hawkie:entity/villager/yes/yes02", "volume":0.5},
             {"name": "hawkie:entity/villager/yes/yes03", "volume":0.5},
@@ -548,6 +549,7 @@
         "sounds": [
             {"name": "hawkie:entity/witch/celebrate/cackle10", "volume":0.7},
             {"name": "hawkie:entity/witch/celebrate/cackle11", "volume":0.7},
+            {"name": "hawkie:entity/witch/celebrate/cackle15", "volume":0.7},
             {"name": "hawkie:entity/witch/celebrate/laugh07", "volume":0.7},
             {"name": "hawkie:entity/witch/celebrate/long-laugh", "volume":0.7},
             {"name": "hawkie:entity/witch/celebrate/witch-ahh", "volume":0.7}

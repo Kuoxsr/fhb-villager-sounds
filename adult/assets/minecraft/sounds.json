@@ -115,16 +115,19 @@
             {"name":"hawkie:entity/villager/trade/i-can-go-gay-for-the-butt-plug", "volume":0.5},
             {"name":"hawkie:entity/villager/trade/i-have-a-kunt-hat-on", "volume":0.5},
             {"name":"hawkie:entity/villager/trade/i-just-talk-about-every-fuckin-thing-dude", "volume":0.5},
-            {"name":"hawkie:entity/villager/trade/ill-have-two-number-nines-etc", "volume":0.5},
+            {"name":"hawkie:entity/villager/trade/i-kinda-like-being-a-quick-fuck", "volume":0.5},
             {"name":"hawkie:entity/villager/trade/i-would-date-the-fuck-out-of-you", "volume":0.5},
+            {"name":"hawkie:entity/villager/trade/ill-have-two-number-nines-etc", "volume":0.5},
             {"name":"hawkie:entity/villager/trade/look-me-in-my-fucking-eyes01", "volume":0.5},
             {"name":"hawkie:entity/villager/trade/look-me-in-my-fucking-eyes02", "volume":0.5},
             {"name":"hawkie:entity/villager/trade/the-holy-words-do-you-know", "volume":0.5},
             {"name":"hawkie:entity/villager/trade/what-the-fuck-are-you", "volume":0.5},
             {"name":"hawkie:entity/villager/trade/what-the-fuck-was-that", "volume":0.5},
             {"name":"hawkie:entity/villager/trade/what-the-hell", "volume":0.5},
+            {"name":"hawkie:entity/villager/trade/whats-a-bit-of-eating-dick-between-friends", "volume":0.5},
             {"name":"hawkie:entity/villager/trade/why-are-my-balls-not-shiny-dude", "volume":0.5},
-            {"name":"hawkie:entity/villager/trade/you-have-to-fuckin-do-it-now-i-swear-to-god", "volume":0.5}
+            {"name":"hawkie:entity/villager/trade/you-have-to-fuckin-do-it-now-i-swear-to-god", "volume":0.5},
+            {"name":"hawkie:entity/villager/trade/youre-looking-very-breedable-today", "volume":0.5}
         ],
         "subtitle": "subtitles.entity.villager.trade"
     },
@@ -160,6 +163,7 @@
         "sounds": [
             {"name":"hawkie:entity/witch/celebrate/cackle10", "volume":0.7},
             {"name":"hawkie:entity/witch/celebrate/cackle11", "volume":0.7},
+            {"name":"hawkie:entity/witch/celebrate/cackle15", "volume":0.7},
             {"name":"hawkie:entity/witch/celebrate/long-laugh", "volume":0.7},
             {"name":"hawkie:entity/witch/celebrate/witch-ahh", "volume":0.7},
             {"name":"hawkie:entity/witch/celebrate/laugh07", "volume":0.7}
