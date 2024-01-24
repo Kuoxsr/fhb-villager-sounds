@@ -2,14 +2,14 @@
     "entity.villager.ambient": {
         "replace":true,
         "sounds": [
-            {"name":"hawkie:entity/villager/ambient/laugh09", "volume":0.5},
-            {"name":"hawkie:entity/villager/ambient/laugh11", "volume":0.5},
-            {"name":"hawkie:entity/villager/ambient/laugh13", "volume":0.5},
-            {"name":"hawkie:entity/villager/ambient/laugh15", "volume":0.5},
-            {"name":"hawkie:entity/villager/ambient/laugh20", "volume":0.5},
-            {"name":"hawkie:entity/villager/ambient/laugh23", "volume":0.5},
-            {"name":"hawkie:entity/villager/ambient/the-fuck01", "volume":0.5},
-            {"name":"hawkie:entity/villager/ambient/the-fuck02", "volume":0.5}
+            {"name":"hawkie:entity/villager/ambient/laugh09", "volume":0.3},
+            {"name":"hawkie:entity/villager/ambient/laugh11", "volume":0.3},
+            {"name":"hawkie:entity/villager/ambient/laugh13", "volume":0.3},
+            {"name":"hawkie:entity/villager/ambient/laugh15", "volume":0.3},
+            {"name":"hawkie:entity/villager/ambient/laugh20", "volume":0.3},
+            {"name":"hawkie:entity/villager/ambient/laugh23", "volume":0.3},
+            {"name":"hawkie:entity/villager/ambient/the-fuck01", "volume":0.3},
+            {"name":"hawkie:entity/villager/ambient/the-fuck02", "volume":0.3}
         ],
         "subtitle": "subtitles.entity.villager.ambient"
     },
