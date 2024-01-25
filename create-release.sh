@@ -69,9 +69,6 @@ function build_pack {
     # If we're building an addon pack, set replace:true to false instead
     if [[ $pack_type == "addon" ]]; then
         sed -i 's/"replace":true,/"replace":false,/g' $temp_folder/assets/minecraft/sounds.json
-    fi
-
-    if [[ -n $pack_type ]]; then
         pack_type="-"$pack_type
     fi
 
