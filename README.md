@@ -88,10 +88,15 @@ This edition has all the original sounds, plus as many more as I can pack in the
 #### Sounds
 All the sounds in each pack (with the exception of the original edition) are fully normalized, and game volume directives are now specified in the sounds.json file, which makes changing the volume for a specific file much easier, and can even be done by you, just by editing the zip file, if you think a particular sound is too loud.
 
+#### Pack types
+As of version 3.0, there are two distinct types of pack.  The standard edition that I have been releasing, which aggressively stomps on all sounds from packs that are beneath it in your list of installed packs, and a new "addon" type, that is completely transparent and allows all sounds from "lower" packs to be considered for random playback.
+
+Note that if every pack that you install is an "addon" pack, you will also hear the default Minecraft villager sounds from the vanilla game.  If you want to layer these packs together, you must put a standard edition on the bottom of the list (above the default pack, of course), and the other two need to be "addon" type packs.
+
 #### Building from source
 At any time, if you are impatient for a new version and you know what you are doing, you can clone my repository to your hard drive and pack the files yourself. I will not, however, be able to provide any kind of support for versions packed by other people. Make sure you choose a name that doesn't match my format; perhaps use the word "custom" or the date you cloned the repo.
 
-## Bug reports
+## Bug reports and feature requests
 Please report any bugs or issues or feature requests you have on the project's Github [issues](https://github.com/Kuoxsr/fhb-villager-sounds/issues) page.  I have taken requests through Twitch chat during a live-stream and/or Minecraft chat, but in the future, I'd like to have a record of change requests and queue them properly, so I may ask you to formally visit that page.
 
 #### A suggestions format might look like the following
