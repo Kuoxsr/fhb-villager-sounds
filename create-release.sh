@@ -10,14 +10,16 @@ echo -e "\n Please choose an edition to package:\n"
 echo " 1. Adult edition"
 echo " 2. Loaded edition"
 echo " 3. UwU edition"
+echo " 4. Pack all the things!"
 echo
-read -p " Which would you like to pack? " edition
+read -n1 -p " Which would you like to pack? " choice
 
-name=""
-case $edition in
-    1) name="adult" ;;
-    2) name="loaded" ;;
-    3) name="uwu" ;;
+edition=""
+case $choice in
+    1) edition="adult" ;;
+    2) edition="loaded" ;;
+    3) edition="uwu" ;;
+    4) edition="adult loaded uwu" ;;
     *) echo " Unknown choice.  Script terminating."; exit 1; ;;
 esac
 
@@ -81,7 +83,8 @@ function build_pack {
     (cd releases/${date_folder} && sha256sum $filename > $filename.sha256)
 }
 
-# Actually call the function, with various custom input
-build_pack $name $version $date_stamp $temp_dir
-build_pack $name $version $date_stamp $temp_dir "addon"
-
+for name in $edition
+do
+    build_pack $name $version $date_stamp $temp_dir
+    build_pack $name $version $date_stamp $temp_dir "addon"
+done
