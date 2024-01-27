@@ -12,7 +12,7 @@ echo " 2. Loaded edition"
 echo " 3. UwU edition"
 echo " 4. Pack all the things!"
 echo
-read -n1 -p " Which would you like to pack? " choice
+read -p " Which would you like to pack? " choice
 
 edition=""
 case $choice in
@@ -20,12 +20,17 @@ case $choice in
     2) edition="loaded" ;;
     3) edition="uwu" ;;
     4) edition="adult loaded uwu" ;;
-    *) echo " Unknown choice.  Script terminating."; exit 1; ;;
+    *) echo -e "\n\033[31m Unknown choice.  Script terminating.\033[0m"; exit 1; ;;
 esac
 
 echo
 echo
 read -p " Version suffix? (e.g., v1.0): " version
+
+if [[ -z $version ]]; then
+    echo -e "\n\033[31m Version suffix required.  Script terminating.\033[0m"
+    exit 1
+fi
 
 # Create date folder
 date_stamp=$(date +%Y.%m.%d)
@@ -40,14 +45,14 @@ temp_dir=`mktemp -d -p "$DIR"`
 
 # check if temporary dir was created
 if [[ ! "$temp_dir" || ! -d "$temp_dir" ]]; then
-  echo " Could not create temp dir"
+  echo -e "\n\033[31m  Could not create temp dir\033[0m"
   exit 1
 fi
 
 # deletes the temp directory
 function cleanup {
   rm -rf "$temp_dir"
-  echo -e "\n Deleted temp working directory $temp_dir"
+  echo -e "\n\033[32m Deleted temp working directory $temp_dir\033[0m"
 }
 
 # register the cleanup function to be called on the EXIT signal
