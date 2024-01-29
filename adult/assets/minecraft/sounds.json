@@ -95,6 +95,7 @@
             {"name": "hawkie:entity/villager/no/shut-the-fuck-up02", "volume": 0.5},
             {"name": "hawkie:entity/villager/no/shut-the-hell-youre-a-dick", "volume": 0.5},
             {"name": "hawkie:entity/villager/no/suck-my-ass", "volume": 0.5},
+            {"name": "hawkie:entity/villager/no/what-the-fuck", "volume": 0.5},
             {"name": "hawkie:entity/villager/no/what-the-hell-did-i-just-say", "volume": 0.5}
         ],
         "subtitle": "subtitles.entity.villager.no"
