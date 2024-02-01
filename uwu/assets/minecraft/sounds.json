@@ -2,6 +2,7 @@
     "entity.villager.ambient": {
         "replace": true,
         "sounds": [
+            {"name": "hawkie:entity/villager/ambient/bewy-me-bewy-me", "volume": 0.3},
             {"name": "hawkie:entity/villager/ambient/laugh01", "volume": 0.3},
             {"name": "hawkie:entity/villager/ambient/laugh04", "volume": 0.3},
             {"name": "hawkie:entity/villager/ambient/laugh19", "volume": 0.3},
