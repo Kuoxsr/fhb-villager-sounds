@@ -43,9 +43,9 @@
     "entity.villager.death": {
         "replace": true,
         "sounds": [
-            {"name": "hawkie:entity/villager/death/death01", "volume": 0.5},
             {"name": "hawkie:entity/villager/death/ahh-you-bitch-ass-mothafucka-i-hate-you", "volume": 0.5},
             {"name": "hawkie:entity/villager/death/bitch-are-you-serious", "volume": 0.5},
+            {"name": "hawkie:entity/villager/death/death01", "volume": 0.5},
             {"name": "hawkie:entity/villager/death/fuck-dude-that-is-so-annoying", "volume": 0.5},
             {"name": "hawkie:entity/villager/death/fuck-it", "volume": 0.5},
             {"name": "hawkie:entity/villager/death/fuck-off", "volume": 0.5},
@@ -53,6 +53,7 @@
             {"name": "hawkie:entity/villager/death/fuck-ok-i-misdodged-that", "volume": 0.5},
             {"name": "hawkie:entity/villager/death/i-fuckin-dodged", "volume": 0.5},
             {"name": "hawkie:entity/villager/death/likely-that-im-still-gonna-feel-like-shit-for-a-while", "volume": 0.5},
+            {"name": "hawkie:entity/villager/death/no-are-you-serious-fucks-sake", "volume": 0.5},
             {"name": "hawkie:entity/villager/death/oh-fuck-my-guy", "volume": 0.5},
             {"name": "hawkie:entity/villager/death/oh-no-i-fucking-died", "volume": 0.5},
             {"name": "hawkie:entity/villager/death/oh-you-bitch", "volume": 0.5},
@@ -62,24 +63,28 @@
             {"name": "hawkie:entity/villager/death/the-way-he-hunts-you-down-kinda-hot", "volume": 0.5},
             {"name": "hawkie:entity/villager/death/what-the-fuck-happened", "volume": 0.5},
             {"name": "hawkie:entity/villager/death/what-the-fuck-is-wrong-with-me", "volume": 0.5},
-            {"name": "hawkie:entity/villager/death/you-frickin-bastard", "volume": 0.5}
+            {"name": "hawkie:entity/villager/death/you-frickin-bastard", "volume": 0.5},
+            {"name": "hawkie:entity/villager/death/you-whore-did-you-take-my-blood", "volume": 0.5}
         ],
         "subtitle": "subtitles.entity.villager.death"
     },
     "entity.villager.hurt": {
         "replace": true,
         "sounds": [
-            {"name": "hawkie:entity/villager/hurt/hit01", "volume": 0.5},
-            {"name": "hawkie:entity/villager/hurt/hit02", "volume": 0.5},
-            {"name": "hawkie:entity/villager/hurt/hit03", "volume": 0.5},
+            {"name": "hawkie:entity/villager/hurt/fuck-off", "volume": 0.5},
             {"name": "hawkie:entity/villager/hurt/fuck01", "volume": 0.5},
             {"name": "hawkie:entity/villager/hurt/fuck02", "volume": 0.5},
             {"name": "hawkie:entity/villager/hurt/fuck04", "volume": 0.5},
             {"name": "hawkie:entity/villager/hurt/fuck05", "volume": 0.5},
             {"name": "hawkie:entity/villager/hurt/fuck06", "volume": 0.5},
+            {"name": "hawkie:entity/villager/hurt/hit01", "volume": 0.5},
+            {"name": "hawkie:entity/villager/hurt/hit02", "volume": 0.5},
+            {"name": "hawkie:entity/villager/hurt/hit03", "volume": 0.5},
             {"name": "hawkie:entity/villager/hurt/im-gonna-fuckin-die", "volume": 0.5},
             {"name": "hawkie:entity/villager/hurt/oh-fuck01", "volume": 0.5},
+            {"name": "hawkie:entity/villager/hurt/what-the-fuck", "volume": 0.5},
             {"name": "hawkie:entity/villager/hurt/what-the-hell", "volume": 0.5},
+            {"name": "hawkie:entity/villager/hurt/what-the-hell02", "volume": 0.5},
             {"name": "hawkie:entity/villager/hurt/you-want-to-fucking-go", "volume": 0.5}
         ],
         "subtitle": "subtitles.entity.villager.hurt"
@@ -89,6 +94,7 @@
         "sounds": [
             {"name": "hawkie:entity/villager/no/eat-my-dick-dude", "volume": 0.5},
             {"name": "hawkie:entity/villager/no/eat-my-fuckin-ass", "volume": 0.5},
+            {"name": "hawkie:entity/villager/no/fuck-you", "volume": 0.5},
             {"name": "hawkie:entity/villager/no/ill-fucking-fight", "volume": 0.5},
             {"name": "hawkie:entity/villager/no/im-gonna-delete-you-what-the-fuck", "volume": 0.5},
             {"name": "hawkie:entity/villager/no/its-so-fuckin-broken", "volume": 0.5},

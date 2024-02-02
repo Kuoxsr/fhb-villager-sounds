@@ -69,10 +69,11 @@
             {"name": "hawkie:entity/villager/death/oh-my-god-laugh02", "volume": 0.5},
             {"name": "hawkie:entity/villager/death/ok-ive-died-laugh", "volume": 0.5},
             {"name": "hawkie:entity/villager/death/thanks-for-throwing-things-at-me-guys", "volume": 0.5},
+            {"name": "hawkie:entity/villager/death/uwu-there-i-go-dying-again", "volume": 0.5},
             {"name": "hawkie:entity/villager/death/uwu-woooow01", "volume": 0.5},
             {"name": "hawkie:entity/villager/death/uwu-woooow02", "volume": 0.5},
-            {"name": "hawkie:entity/villager/death/uwu-there-i-go-dying-again", "volume": 0.5},
             {"name": "hawkie:entity/villager/death/woah03", "volume": 0.5},
+            {"name": "hawkie:entity/villager/death/woo-woo-woo-woo", "volume": 0.5},
             {"name": "hawkie:entity/villager/death/you-guys-can-bully-me-when-i-cry", "volume": 0.5}
         ],
         "subtitle": "subtitles.entity.villager.death"
