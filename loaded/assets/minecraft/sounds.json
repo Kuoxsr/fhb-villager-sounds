@@ -57,6 +57,7 @@
         "replace": true,
         "sounds": [
             {"name": "hawkie:entity/villager/celebrate/and-i-hope-your-enemies-feel-a-little-bit-smaller", "volume": 0.5},
+            {"name": "hawkie:entity/villager/celebrate/celebratory-yes", "volume": 0.5},
             {"name": "hawkie:entity/villager/celebrate/claps-and-hawk-love", "volume": 0.5},
             {"name": "hawkie:entity/villager/celebrate/dude-i-made-god", "volume": 0.5},
             {"name": "hawkie:entity/villager/celebrate/get-bozoed", "volume": 0.5},
@@ -531,6 +532,7 @@
             {"name": "hawkie:entity/villager/yes/ok09", "volume": 0.5},
             {"name": "hawkie:entity/villager/yes/ok10", "volume": 0.5},
             {"name": "hawkie:entity/villager/yes/ok11", "volume": 0.5},
+            {"name": "hawkie:entity/villager/yes/ok12", "volume": 0.5},
             {"name": "hawkie:entity/villager/yes/ooh-so-good", "volume": 0.5},
             {"name": "hawkie:entity/villager/yes/ooohh", "volume": 0.5},
             {"name": "hawkie:entity/villager/yes/priceless", "volume": 0.5},
@@ -558,6 +560,7 @@
             {"name": "hawkie:entity/villager/yes/thank-you04", "volume": 0.5},
             {"name": "hawkie:entity/villager/yes/thank-you05", "volume": 0.5},
             {"name": "hawkie:entity/villager/yes/thank-you06", "volume": 0.5},
+            {"name": "hawkie:entity/villager/yes/thats-perfect", "volume": 0.5},
             {"name": "hawkie:entity/villager/yes/there-it-is", "volume": 0.5},
             {"name": "hawkie:entity/villager/yes/there-we-go", "volume": 0.5},
             {"name": "hawkie:entity/villager/yes/there-you-go", "volume": 0.5},
@@ -596,7 +599,8 @@
             {"name": "hawkie:entity/witch/ambient/cackle13", "volume": 0.7},
             {"name": "hawkie:entity/witch/ambient/cackle14", "volume": 0.7},
             {"name": "hawkie:entity/witch/ambient/giggle03", "volume": 0.7},
-            {"name": "hawkie:entity/witch/ambient/snicker01", "volume": 1}
+            {"name": "hawkie:entity/witch/ambient/snicker01", "volume": 1},
+            {"name": "hawkie:entity/witch/ambient/witch-laugh", "volume": 1}
         ],
         "subtitle": "subtitles.entity.witch.ambient"
     },
