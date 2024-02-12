@@ -638,6 +638,7 @@
     "entity.witch.ambient": {
         "replace": true,
         "sounds": [
+            {"name": "hawkie:entity/witch/ambient/cackle-lethal-company", "volume": 0.7},
             {"name": "hawkie:entity/witch/ambient/cackle01", "volume": 0.7},
             {"name": "hawkie:entity/witch/ambient/cackle02", "volume": 0.7},
             {"name": "hawkie:entity/witch/ambient/cackle03", "volume": 0.7},
