@@ -20,6 +20,17 @@
         "subtitle": "subtitles.block.beacon.deactivate",
         "replace": true
     },
+    "block.slime_block.fall": {
+        "sounds": [
+            {"name": "hawkie:block/slime_block/fall/arbys-guy-malfunctions01", "volume": 0.5},
+            {"name": "hawkie:block/slime_block/fall/arbys-guy-malfunctions02", "volume": 0.5},
+            {"name": "hawkie:block/slime_block/fall/arbys-guy-malfunctions03", "volume": 0.5},
+            {"name": "hawkie:block/slime_block/fall/arbys-guy-malfunctions04", "volume": 0.5},
+            {"name": "hawkie:block/slime_block/fall/arbys-guy-malfunctions05", "volume": 0.5}
+        ],
+        "subtitle": "subtitles.block.slime_block.fall",
+        "replace": true
+    },
     "entity.allay.item_thrown": {
         "sounds": [
             {"name": "hawkie:entity/allay/item_thrown/high-pitched-oo"}
