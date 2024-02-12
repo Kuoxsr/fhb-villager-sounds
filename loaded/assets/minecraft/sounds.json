@@ -1,4 +1,39 @@
 {
+    "block.beacon.activate": {
+        "sounds": [
+            {"name": "hawkie:block/beacon/activate/beacon-activate-arbys-guy"}
+        ],
+        "subtitle": "subtitles.block.beacon.activate",
+        "replace": true
+    },
+    "block.beacon.ambient": {
+        "sounds": [
+            {"name": "hawkie:block/beacon/ambient/beacon-ambient-arbys-guy", "attenuation_distance": 8}
+        ],
+        "subtitle": "subtitles.block.beacon.ambient",
+        "replace": true
+    },
+    "block.beacon.deactivate": {
+        "sounds": [
+            {"name": "hawkie:block/beacon/deactivate/beacon-deactivate-arbys-guy"}
+        ],
+        "subtitle": "subtitles.block.beacon.deactivate",
+        "replace": true
+    },
+    "entity.allay.item_thrown": {
+        "sounds": [
+            {"name": "hawkie:entity/allay/item_thrown/high-pitched-oo"}
+        ],
+        "subtitle": "subtitles.entity.allay.item_thrown",
+        "replace": true
+    },
+    "entity.cow.ambient": {
+        "sounds": [
+            {"name": "hawkie:entity/cow/ambient/cow-tts-gone-wrong"}
+        ],
+        "subtitle": "subtitles.entity.cow.ambient",
+        "replace": true
+    },
     "entity.villager.ambient": {
         "replace": true,
         "sounds": [
@@ -79,6 +114,7 @@
             {"name": "hawkie:entity/villager/celebrate/i-think-i-killed-a-guy-here", "volume": 0.5},
             {"name": "hawkie:entity/villager/celebrate/i-think-were-good", "volume": 0.5},
             {"name": "hawkie:entity/villager/celebrate/i-want-my-babybacks-babybacks-babybacks", "volume": 0.5},
+            {"name": "hawkie:entity/villager/celebrate/i-was-here-were-you-here-we-fought-valiantly", "volume": 0.5},
             {"name": "hawkie:entity/villager/celebrate/i-will-buy-you-a-beer", "volume": 0.5},
             {"name": "hawkie:entity/villager/celebrate/im-her", "volume": 0.5},
             {"name": "hawkie:entity/villager/celebrate/im-so-powerful-now-that-my-weapon-is-actually-working", "volume": 0.5},
@@ -147,6 +183,7 @@
             {"name": "hawkie:entity/villager/death/i-tried-everybody", "volume": 0.5},
             {"name": "hawkie:entity/villager/death/im-having-a-heart-attack-and-a-half", "volume": 0.5},
             {"name": "hawkie:entity/villager/death/ive-died", "volume": 0.5},
+            {"name": "hawkie:entity/villager/death/naur-i-dont-want-to-die", "volume": 0.5},
             {"name": "hawkie:entity/villager/death/no-dont-make-me-cry", "volume": 0.5},
             {"name": "hawkie:entity/villager/death/no03", "volume": 0.5},
             {"name": "hawkie:entity/villager/death/no05", "volume": 0.5},
@@ -167,6 +204,7 @@
             {"name": "hawkie:entity/villager/death/ooh-that-was-so-mean", "volume": 0.5},
             {"name": "hawkie:entity/villager/death/please-please", "volume": 0.5},
             {"name": "hawkie:entity/villager/death/please-theres-only-so-much-fish-a-girl-can-handle", "volume": 0.5},
+            {"name": "hawkie:entity/villager/death/scream", "volume": 0.5},
             {"name": "hawkie:entity/villager/death/that-was-terrifying", "volume": 0.5},
             {"name": "hawkie:entity/villager/death/thats-also-a-hate-crime", "volume": 0.5},
             {"name": "hawkie:entity/villager/death/thats-so-mean", "volume": 0.5},
@@ -275,6 +313,7 @@
             {"name": "hawkie:entity/villager/hurt/oh-no13", "volume": 0.5},
             {"name": "hawkie:entity/villager/hurt/oh-no14", "volume": 0.5},
             {"name": "hawkie:entity/villager/hurt/oh-no15", "volume": 0.5},
+            {"name": "hawkie:entity/villager/hurt/oh-no16", "volume": 0.5},
             {"name": "hawkie:entity/villager/hurt/oh01", "volume": 0.5},
             {"name": "hawkie:entity/villager/hurt/oh02", "volume": 0.5},
             {"name": "hawkie:entity/villager/hurt/oh03", "volume": 0.5},
@@ -374,6 +413,7 @@
             {"name": "hawkie:entity/villager/no/shtop", "volume": 0.5},
             {"name": "hawkie:entity/villager/no/shut01", "volume": 0.5},
             {"name": "hawkie:entity/villager/no/stop-it", "volume": 0.5},
+            {"name": "hawkie:entity/villager/no/that-might-be-the-worst-thing-that-i-have-ever-heard-in-my-entire-life", "volume": 0.5},
             {"name": "hawkie:entity/villager/no/thats-so-embarrassing-it-really-is", "volume": 0.5},
             {"name": "hawkie:entity/villager/no/thats-wrong", "volume": 0.5},
             {"name": "hawkie:entity/villager/no/whatever", "volume": 0.5},
@@ -404,6 +444,7 @@
             {"name": "hawkie:entity/villager/trade/could-i-have-it-anyway", "volume": 0.5},
             {"name": "hawkie:entity/villager/trade/did-everyone-get-their-egg", "volume": 0.5},
             {"name": "hawkie:entity/villager/trade/do-you-know-the-sacred-words", "volume": 0.5},
+            {"name": "hawkie:entity/villager/trade/do-you-remember-the-21st-night-of-september", "volume": 0.5},
             {"name": "hawkie:entity/villager/trade/every-story-here-is-related-have-you-heard-me-talk", "volume": 0.5},
             {"name": "hawkie:entity/villager/trade/four-big-guys", "volume": 0.5},
             {"name": "hawkie:entity/villager/trade/get-your-last-minute-bets-in", "volume": 0.5},

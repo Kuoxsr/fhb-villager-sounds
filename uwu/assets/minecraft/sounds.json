@@ -83,14 +83,15 @@
         "sounds": [
             {"name": "hawkie:entity/villager/hurt/aah", "volume": 0.5},
             {"name": "hawkie:entity/villager/hurt/ai01", "volume": 0.5},
+            {"name": "hawkie:entity/villager/hurt/help-me", "volume": 0.5},
             {"name": "hawkie:entity/villager/hurt/ooh03", "volume": 0.5},
             {"name": "hawkie:entity/villager/hurt/please-im-so-little", "volume": 0.5},
             {"name": "hawkie:entity/villager/hurt/stop-it-laugh", "volume": 0.5},
-            {"name": "hawkie:entity/villager/hurt/uwu01", "volume": 0.5},
-            {"name": "hawkie:entity/villager/hurt/uwu02", "volume": 0.5},
             {"name": "hawkie:entity/villager/hurt/uwu-ooh", "volume": 0.5},
             {"name": "hawkie:entity/villager/hurt/uwu-squeal", "volume": 0.5},
             {"name": "hawkie:entity/villager/hurt/uwu-woo", "volume": 0.5},
+            {"name": "hawkie:entity/villager/hurt/uwu01", "volume": 0.5},
+            {"name": "hawkie:entity/villager/hurt/uwu02", "volume": 0.5},
             {"name": "hawkie:entity/villager/hurt/various-burp-laughter01", "volume": 0.5},
             {"name": "hawkie:entity/villager/hurt/various-burp-laughter02", "volume": 0.5},
             {"name": "hawkie:entity/villager/hurt/various-burp-laughter03", "volume": 0.5},
@@ -165,6 +166,7 @@
     "entity.witch.ambient": {
         "replace": true,
         "sounds": [
+            {"name": "hawkie:entity/witch/ambient/laugh", "volume": 0.7},
             {"name": "hawkie:entity/witch/ambient/laugh03", "volume": 0.7},
             {"name": "hawkie:entity/witch/ambient/laugh05", "volume": 0.7},
             {"name": "hawkie:entity/witch/ambient/laugh08", "volume": 0.7},
@@ -174,10 +176,10 @@
             {"name": "hawkie:entity/witch/ambient/laugh29", "volume": 0.7},
             {"name": "hawkie:entity/witch/ambient/laugh35", "volume": 0.7},
             {"name": "hawkie:entity/witch/ambient/laugh38", "volume": 0.7},
+            {"name": "hawkie:entity/witch/ambient/laugh46", "volume": 1},
             {"name": "hawkie:entity/witch/ambient/uwu-giggle07", "volume": 0.7},
             {"name": "hawkie:entity/witch/ambient/uwu-giggle08", "volume": 0.7},
-            {"name": "hawkie:entity/witch/ambient/uwu-hee-hee-hee", "volume": 0.7},
-            {"name": "hawkie:entity/witch/ambient/laugh46", "volume": 1}
+            {"name": "hawkie:entity/witch/ambient/uwu-hee-hee-hee", "volume": 0.7}
         ],
         "subtitle": "subtitles.entity.witch.ambient"
     },
