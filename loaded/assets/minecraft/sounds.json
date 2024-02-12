@@ -652,6 +652,7 @@
             {"name": "hawkie:entity/witch/ambient/cackle14", "volume": 0.7},
             {"name": "hawkie:entity/witch/ambient/giggle03", "volume": 0.7},
             {"name": "hawkie:entity/witch/ambient/snicker01", "volume": 1},
+            {"name": "hawkie:entity/witch/ambient/sushima-witch-laugh", "volume": 0.7},
             {"name": "hawkie:entity/witch/ambient/witch-laugh", "volume": 1}
         ],
         "subtitle": "subtitles.entity.witch.ambient"
