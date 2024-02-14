@@ -3,6 +3,7 @@
         "replace": true,
         "sounds": [
             {"name": "hawkie:entity/villager/ambient/bewy-me-bewy-me", "volume": 0.3},
+            {"name": "hawkie:entity/villager/ambient/hows-it-goin", "volume": 0.3},
             {"name": "hawkie:entity/villager/ambient/laugh01", "volume": 0.3},
             {"name": "hawkie:entity/villager/ambient/laugh04", "volume": 0.3},
             {"name": "hawkie:entity/villager/ambient/laugh19", "volume": 0.3},
@@ -82,6 +83,8 @@
         "replace": true,
         "sounds": [
             {"name": "hawkie:entity/villager/hurt/aah", "volume": 0.5},
+            {"name": "hawkie:entity/villager/hurt/ahh01", "volume": 0.5},
+            {"name": "hawkie:entity/villager/hurt/ahh02", "volume": 0.5},
             {"name": "hawkie:entity/villager/hurt/ai01", "volume": 0.5},
             {"name": "hawkie:entity/villager/hurt/help-me", "volume": 0.5},
             {"name": "hawkie:entity/villager/hurt/ooh03", "volume": 0.5},
@@ -123,8 +126,9 @@
         "replace": true,
         "sounds": [
             {"name": "hawkie:entity/villager/trade/could-i-have-it-anyway", "volume": 0.5},
-            {"name": "hawkie:entity/villager/trade/thank-you-for-coming-in", "volume": 0.5},
+            {"name": "hawkie:entity/villager/trade/hi-i-have-stuff-to-sell-you", "volume": 0.5},
             {"name": "hawkie:entity/villager/trade/thank-you-for-comin-in", "volume": 0.5},
+            {"name": "hawkie:entity/villager/trade/thank-you-for-coming-in", "volume": 0.5},
             {"name": "hawkie:entity/villager/trade/that-feels-like-a-lot01", "volume": 0.5},
             {"name": "hawkie:entity/villager/trade/uwu-do-you-like-mountain-goat", "volume": 0.5},
             {"name": "hawkie:entity/villager/trade/uwu-i-keep-burping", "volume": 0.5},
@@ -147,6 +151,7 @@
         "sounds": [
             {"name": "hawkie:entity/villager/yes/gang-gang-yes-yes-yes", "volume": 0.5},
             {"name": "hawkie:entity/villager/yes/i-love-that-so-much", "volume": 0.5},
+            {"name": "hawkie:entity/villager/yes/thank-you", "volume": 0.5},
             {"name": "hawkie:entity/villager/yes/thank-you-thank-you-thank-you", "volume": 0.5},
             {"name": "hawkie:entity/villager/yes/thats-kinda-cute-i-like-that", "volume": 0.5},
             {"name": "hawkie:entity/villager/yes/there-you-go03", "volume": 0.5},
