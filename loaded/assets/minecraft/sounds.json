@@ -718,5 +718,11 @@
             {"name": "hawkie:music_disc/11/still-alive", "weight": 1, "stream": true},
             {"name": "hawkie:music_disc/11/will-the-circle-be-unbroken", "weight": 100, "stream": true}
         ]
+    },
+    "music_disc.13": {
+        "replace": true,
+        "sounds": [
+            {"name": "hawkie:music_disc/13/hawkie-sings-sonic-riders-theme", "stream": true}
+        ]
     }
 }
