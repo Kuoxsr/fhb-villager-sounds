@@ -20,15 +20,58 @@
         "subtitle": "subtitles.block.beacon.deactivate",
         "replace": true
     },
+    "block.slime_block.break": {
+        "sounds": [
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions01", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions02", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions03", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions04", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions05", "volume": 0.2}
+        ],
+        "subtitle": "subtitles.block.generic.break",
+        "replace": true
+    },
     "block.slime_block.fall": {
         "sounds": [
-            {"name": "hawkie:block/slime_block/fall/arbys-guy-malfunctions01", "volume": 0.5},
-            {"name": "hawkie:block/slime_block/fall/arbys-guy-malfunctions02", "volume": 0.5},
-            {"name": "hawkie:block/slime_block/fall/arbys-guy-malfunctions03", "volume": 0.5},
-            {"name": "hawkie:block/slime_block/fall/arbys-guy-malfunctions04", "volume": 0.5},
-            {"name": "hawkie:block/slime_block/fall/arbys-guy-malfunctions05", "volume": 0.5}
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions01-small", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions02-small", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions03-small", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions04-small", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions05-small", "volume": 0.2}
         ],
-        "subtitle": "subtitles.block.slime_block.fall",
+        "replace": true
+    },
+    "block.slime_block.hit": {
+        "sounds": [
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions01-small", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions02-small", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions03-small", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions04-small", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions05-small", "volume": 0.2}
+        ],
+        "subtitle": "subtitles.block.generic.hit",
+        "replace": true
+    },
+    "block.slime_block.place": {
+        "sounds": [
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions01", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions02", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions03", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions04", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions05", "volume": 0.2}
+        ],
+        "subtitle": "subtitles.block.generic.place",
+        "replace": true
+    },
+    "block.slime_block.step": {
+        "sounds": [
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions01-small", "volume": 0.5},
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions02-small", "volume": 0.5},
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions03-small", "volume": 0.5},
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions04-small", "volume": 0.5},
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions05-small", "volume": 0.5}
+        ],
+        "subtitle": "subtitles.block.generic.footsteps",
         "replace": true
     },
     "entity.allay.item_thrown": {
@@ -44,6 +87,105 @@
             {"name": "hawkie:entity/cow/ambient/cow-tts-gone-wrong"}
         ],
         "subtitle": "subtitles.entity.cow.ambient",
+        "replace": true
+    },
+    "entity.slime.attack": {
+        "sounds": [
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions01", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions02", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions03", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions04", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions05", "volume": 0.2}
+        ],
+        "subtitle": "subtitles.entity.slime.attack",
+        "replace": true
+    },
+    "entity.slime.death": {
+        "sounds": [
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions01", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions02", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions03", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions04", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions05", "volume": 0.2}
+        ],
+        "subtitle": "subtitles.entity.slime.death",
+        "replace": true
+    },
+    "entity.slime.death_small": {
+        "sounds": [
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions01-small", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions02-small", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions03-small", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions04-small", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions05-small", "volume": 0.2}
+        ],
+        "subtitle": "subtitles.entity.slime.death",
+        "replace": true
+    },
+    "entity.slime.hurt": {
+        "sounds": [
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions01", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions02", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions03", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions04", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions05", "volume": 0.2}
+        ],
+        "subtitle": "subtitles.entity.slime.hurt",
+        "replace": true
+    },
+    "entity.slime.hurt_small": {
+        "sounds": [
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions01-small", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions02-small", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions03-small", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions04-small", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions05-small", "volume": 0.2}
+        ],
+        "subtitle": "subtitles.entity.slime.hurt",
+        "replace": true
+    },
+    "entity.slime.jump": {
+        "sounds": [
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions01", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions02", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions03", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions04", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions05", "volume": 0.2}
+        ],
+        "subtitle": "subtitles.entity.slime.squish",
+        "replace": true
+    },
+    "entity.slime.jump_small": {
+        "sounds": [
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions01-small", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions02-small", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions03-small", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions04-small", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions05-small", "volume": 0.2}
+        ],
+        "subtitle": "subtitles.entity.slime.squish",
+        "replace": true
+    },
+    "entity.slime.squish": {
+        "sounds": [
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions01", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions02", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions03", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions04", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions05", "volume": 0.2}
+        ],
+        "subtitle": "subtitles.entity.slime.squish",
+        "replace": true
+    },
+    "entity.slime.squish_small": {
+        "sounds": [
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions01-small", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions02-small", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions03-small", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions04-small", "volume": 0.2},
+            {"name": "hawkie:entity/slime/jump_small/arbys-guy-malfunctions05-small", "volume": 0.2}
+        ],
+        "subtitle": "subtitles.entity.slime.squish",
         "replace": true
     },
     "entity.villager.ambient": {
