@@ -91,11 +91,8 @@
     },
     "entity.slime.attack": {
         "sounds": [
-            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions01", "volume": 0.2},
-            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions02", "volume": 0.2},
-            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions03", "volume": 0.2},
-            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions04", "volume": 0.2},
-            {"name": "hawkie:entity/slime/jump/arbys-guy-malfunctions05", "volume": 0.2}
+            {"name": "hawkie:entity/slime/attack/arbys-guy-malfunctions01-attack", "volume": 0.6},
+            {"name": "hawkie:entity/slime/attack/arbys-guy-malfunctions04-attack", "volume": 0.6}
         ],
         "subtitle": "subtitles.entity.slime.attack",
         "replace": true
