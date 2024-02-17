@@ -7,7 +7,7 @@ This came about during a live-stream in which Hawkie was bragging that she could
 
 So I did.
 
-Ever since then, I've had so much fun putting this together, I can't stop.  As evidence of this, the edition I'm working on now contains witch sounds, a music disc, an end credits speech, and I'm hoping to add pillagers and maybe even *zombie* villagers.
+Ever since then, I've had so much fun putting this together, I can't stop.  As evidence of this, the version I've just released contains allay sounds, slime sounds, beacon sounds, a cow sound, witch sounds, two music discs, an end credits speech, and I'm hoping to add pillagers and maybe even *zombie* villagers.
 
 Please send help.  I think I may have lost my marbles.
 
@@ -25,8 +25,10 @@ Please send help.  I think I may have lost my marbles.
 5. Click the arrow on the pack to move it to the right side of the screen (Selected)
 6. Click "Done" and play the game.
 
-## How to hear all the sounds
+## How to hear (some of) the sounds
 Most of the sounds are random in their context, so you may need to try multiple times to hear them all.  Also, the game pitch-shifts many of these sounds for variety, so they can sound kind of different, even if they're not.  Be patient.  The "Editions" section below shows how many of each type of sound to expect.
+
+There are so many different types of sounds now, if I named them all, no one would read it.  Who am I kidding?  Nobody reads the readme anyway:
 
 * Find a village.  Just hanging around the inhabitants, you should hear them make various "ambient" sounds.
 
@@ -50,6 +52,8 @@ Most of the sounds are random in their context, so you may need to try multiple 
 
 * To hear the end credits speech, defeat the ender dragon (or you could go to the options menu and click "Credits & Attribution" and then "Credits," but what fun is that?)  Make sure you have "Music" turned up on the "Music & Sound Options" screen.
 
+* To hear other sounds, just play the game.  You'll hear them eventually.
+
 ## Editions
 ### Original
 This was the original, built quickly based on Hawkie's joking attempt to imitate the villager sounds on her live-stream.  She had no idea at the time that someone would take her seriously.  It came together just in time for a special live-stream event in which FlyingHawkButt joined the rest of [CarlCrafts](https://www.twitch.tv/carlcrafts)' mod team in their attempt to defeat the Ender Dragon.  The sheer hilarity that ensued was quite the experience.
@@ -62,27 +66,34 @@ I was not aware that "celebrate" sounds were different from "yes" sounds at this
 ### UwU
 This edition aims to be as adorable as possible, with giggles and laughter and benevolent good vibes, because Hawkie is absolutely adorable in every way.
 
-#### This edition currently has 133 sounds
-* Villagers: 30 ambient, 13 celebrate, 11 death, 24 hurt, 4 no, 17 trade, 13 yes
-* Witches: 12 ambient, 8 celebrate
+#### This edition currently has 149 sounds
+* Villagers: 37 ambient, 13 celebrate, 12 death, 27 hurt, 4 no, 18 trade, 16 yes
+* Witches: 14 ambient, 8 celebrate
 * I did not include the music disc or the End Credits speech in this edition
 
 ### Adult
 Whenever possible in this edition, the sound event will be profane.  She is Australian, after-all...
 
-#### This edition currently has 114 sounds
-* Villagers: 8 ambient (most of these are laughs, because there was very little other content), 21 celebrate, 20 death, 12 hurt, 9 no, 20 trade, 2 yes
-* Witch sounds should be identical between loaded and adult, with the exception of a single death sound that contains profanity and is only in this pack
+#### This edition currently has 128 sounds
+* Villagers: 8 ambient (most of these are laughs, because there was very little other content), 23 celebrate, 26 death, 16 hurt, 14 no, 36 trade, 3 yes
+* Witches: 1 death sound
 * End Credits Speech - relive the triumphant moment when Hawkie defeated the final boss in Elden Ring (uncensored)
 
 ### Loaded
 This edition has all the original sounds, plus as many more as I can pack in there over time.  I discovered how to include more than the default number of sounds, so you'd better believe I'm stuffing this thing full.  The only thing this pack won't contain is profanity.
 
-#### This edition currently has 499 sounds
-* Villagers: 45 ambient, 60 celebrate,  46 death, 116 hurt, 46 no, 88 trade, 76 yes
-* Witches: 13 ambient, 5 celebrate
-* Music Discs: Disc "11" has been replaced with "Hawkie covers a song poorly"
+#### This edition currently has 679 sounds ✳️
+* Beacons: 1 activate, 1 ambient, 1 deactivate
+* Slime blocks: 10 shared with slime entities across 5 events: 5 break, 5 fall, 5 hit, 5 place, 5 step
+* Allay: 1 Item thrown
+* Cows: 1 ambient
+* Slimes: 2 attack, 5 shared between death, hurt, jump & squish, and 5 shared between "small" versions of the other 5
+* Villagers: 48 ambient, 72 celebrate,  50 death, 140 hurt, 62 no, 105 trade, 98 yes
+* Witches: 19 ambient, 7 celebrate
+* Music Discs: Disc "11" has been replaced with "Hawkie covers a song poorly" - another disc is Hawkie singing the Sonic Riders theme.  Collect them all to find it!
 * End Credits Speech - relive the triumphant moment when Hawkie defeated the final boss in Elden Ring (censored)
+
+✳️ Some of these are shared between different sound events and counted multiple times, so I have no idea how to report the actual number of unique sounds anymore.  🤷‍♂️
 
 ### Technical notes
 #### Sounds
