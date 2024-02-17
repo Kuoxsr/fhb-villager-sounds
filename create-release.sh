@@ -70,9 +70,6 @@ function build_pack {
     # Report that we're starting the process
     echo -e "\n Packing $edition_name $version_suffix $pack_type into folder $date_folder:\n"
 
-    # Copy the files to zip into the temporary folder
-    cp -a $edition_name/. $temp_folder
-
     # If we're building an addon pack, set replace:true to false instead
     if [[ $pack_type == "addon" ]]; then
         sed -i 's/"replace":[[:blank:]]*true/"replace": false/g' $temp_folder/assets/minecraft/sounds.json
@@ -90,6 +87,20 @@ function build_pack {
 
 for name in $edition
 do
+    # Copy the files to zip into the temporary folder
+    cp -a $name/. $temp_dir
+
+    # build both normal and addon packs
     build_pack $name $version $date_stamp $temp_dir
     build_pack $name $version $date_stamp $temp_dir "addon"
+
+    # Clear the temp folder, so we don't leave cruft hanging around
+    rm -rf $temp_dir/*
+
+    # Check to make sure the removal worked
+    if [[ "$?" == "0" ]];then
+      echo -e "\n\033[32m All temporary files successfully deleted\033[0m"
+    else
+      echo -e "\n\033[31m Failed to delete temporary files\033[0m"
+    fi
 done
