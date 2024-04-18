@@ -11,6 +11,9 @@ Ever since then, I've had so much fun putting this together, I can't stop.  As e
 
 Please send help.  I think I may have lost my marbles.
 
+## Disclaimer:
+The views expressed on stream by ms. HawkButt are purely her own, and do not reflect my views or the views of any hypothetical future contributors to this project.
+
 ## Follow FlyingHawkButt
 * Catch her live-streams on [Twitch](https://www.twitch.tv/flyinghawkbutt), and tell her Kuo sent you
 * View her on-demand videos on [YouTube](https://www.youtube.com/@flyinghawkbutt9630)
@@ -64,7 +67,7 @@ This was the original, built quickly based on Hawkie's joking attempt to imitate
 I was not aware that "celebrate" sounds were different from "yes" sounds at this time, because the vanilla game has no special celebration sounds.  They simply reuse the "yes" sounds for this.  All my other editions separate these, so "yes" and "celebrate" are two different concepts.  This edition will stay the way it is just for nostalgia.
 
 ### UwU
-This edition aims to be as adorable as possible, with giggles and laughter and benevolent good vibes, because Hawkie is absolutely adorable in every way.
+This edition aims to be as adorable as possible, with giggles and laughter and benevolent good vibes, because Hawkie is absolutely adorable when she wants to be.
 
 #### This edition currently has 149 sounds
 * Villagers: 37 ambient, 13 celebrate, 12 death, 27 hurt, 4 no, 18 trade, 16 yes
